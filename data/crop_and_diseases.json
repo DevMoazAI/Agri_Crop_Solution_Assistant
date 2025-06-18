@@ -1,0 +1,30 @@
+{
+  "crops": [
+    "Sugarcane",
+    "Oilseed",
+    "Cotton",
+    "Legumes",
+    "Rice",
+    "Maize",
+    "Wheat",
+    "Vegetables",
+    "Fruits"
+  ],
+  "diseases": [
+    "Aphids",
+    "Blight",
+    "Whitefly",
+    "Downy Mildew",
+    "Stem Borer",
+    "Bollworms",
+    "Soil pH Adjustment",
+    "Thrips",
+    "Nutrient Deficiency",
+    "Soil Fertility Enhancement",
+    "Root Rot",
+    "Growth Regulation",
+    "Planting",
+    "Leaf Rust",
+    "Yellow Rust"
+  ]
+}

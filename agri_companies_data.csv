@@ -1,0 +1,901 @@
+trade_name,generic_name,crop,disease,dose_per_acre,company,category,price_pkr,efficacy_test_result
+Nitrogen-Ultra,Nitrogen,Maize,Stem Borer,10 kg,Ali Akbar Group,Micronutrient,4598,95%
+Carfentrazone-ethyl-Tech,Carfentrazone-ethyl,Vegetables,Nutrient Deficiency,358 ml,Ali Akbar Group,Insecticide,4405,96%
+Thiamethoxam-Pro,Thiamethoxam,Maize,Aphids,490 ml,Ali Akbar Group,Insecticide,2014,90%
+Diammonium-Plus,Diammonium Phosphate (DAP),Wheat,Aphids,12 kg,Ali Akbar Group,Micronutrient,1514,90%
+Tricyclazole-Ultra,Tricyclazole,Maize,Soil pH Adjustment,30 kg,Ali Akbar Group,Soil Conditioner,3848,81%
+Carbendazim-Supreme,Carbendazim,Cotton,Thrips,94 ml,Ali Akbar Group,Plant Growth Regulator,4359,77%
+Chlorpyrifos-Pro,Chlorpyrifos,Oilseed,Yellow Rust,41 kg,Ali Akbar Group,Soil Conditioner,1994,88%
+Tricyclazole-Bio,Tricyclazole,Fruits,Blight,23 kg,Ali Akbar Group,Fertilizer,4704,94%
+Trichoderma-Eco,Trichoderma Harzianum,Maize,Yellow Rust,13 kg,Ali Akbar Group,Micronutrient,3243,77%
+Chlorpyrifos-Gold,Chlorpyrifos,Maize,Yellow Rust,367 ml,Ali Akbar Group,Fungicide,3372,82%
+Chlorpyrifos-Tech,Chlorpyrifos,Rice,Aphids,134 ml,Ali Akbar Group,Plant Growth Regulator,5424,76%
+Imidacloprid-Pro,Imidacloprid,Wheat,Yellow Rust,209 ml,Ali Akbar Group,Fungicide,4101,82%
+Imidacloprid-Plus,Imidacloprid,Wheat,Blight,488 ml,Ali Akbar Group,Fungicide,3828,86%
+Glyphosate-Supreme,Glyphosate,Fruits,Soil Fertility Enhancement,41 kg,Ali Akbar Group,Soil Conditioner,3184,89%
+Zinc-Pro,Zinc Sulfate,Oilseed,Aphids,74 ml,Ali Akbar Group,Plant Growth Regulator,3454,83%
+Tricyclazole-Plus,Tricyclazole,Legumes,Nutrient Deficiency,16 kg,Ali Akbar Group,Micronutrient,3525,77%
+Gibberellic-Pro,Gibberellic Acid,Legumes,Soil pH Adjustment,33 kg,Ali Akbar Group,Fertilizer,2389,91%
+Tricyclazole-Max,Tricyclazole,Vegetables,Stem Borer,330 ml,Ali Akbar Group,Insecticide,1850,89%
+Phosphorus-Supreme,Phosphorus,Sugarcane,Leaf Rust,20 kg,Ali Akbar Group,Micronutrient,2585,81%
+Potassium-Plus,Potassium,Oilseed,Bollworms,170 ml,Ali Akbar Group,Herbicide,2469,99%
+Imidacloprid-Plus,Imidacloprid,Vegetables,Yellow Rust,18 kg,Ali Akbar Group,Micronutrient,2105,83%
+Potassium-Max,Potassium,Vegetables,Nutrient Deficiency,426 ml,Ali Akbar Group,Herbicide,2090,93%
+Zinc-Plus,Zinc Sulfate,Legumes,Growth Regulation,185 ml,Ali Akbar Group,Fungicide,4242,82%
+Nitrogen-Plus,Nitrogen,Maize,Blight,366 ml,Ali Akbar Group,Fungicide,3077,98%
+Tricyclazole-Eco,Tricyclazole,Fruits,Bollworms,201 ml,Ali Akbar Group,Insecticide,2965,70%
+Nitrogen-Bio,Nitrogen,Maize,Yellow Rust,24 kg,Ali Akbar Group,Fertilizer,7258,96%
+Pyrethroid-Ultra,Pyrethroid,Maize,Aphids,300 ml,Ali Akbar Group,Fungicide,4798,94%
+Nitrogen-Bio,Nitrogen,Cotton,Stem Borer,14 kg,Ali Akbar Group,Seed,2383,91%
+Urea-Bio,Urea,Sugarcane,Aphids,222 ml,Ali Akbar Group,Insecticide,3501,82%
+Urea-Gold,Urea,Wheat,Leaf Rust,217 ml,Ali Akbar Group,Herbicide,1208,87%
+Thiamethoxam-Pro,Thiamethoxam,Oilseed,Downy Mildew,17 kg,Ali Akbar Group,Seed,6850,94%
+Tricyclazole-Max,Tricyclazole,Fruits,Leaf Rust,481 ml,Ali Akbar Group,Herbicide,3270,75%
+Chlorpyrifos-Bio,Chlorpyrifos,Cotton,Stem Borer,294 ml,Ali Akbar Group,Insecticide,3402,76%
+Diammonium-Max,Diammonium Phosphate (DAP),Cotton,Planting,49 kg,Ali Akbar Group,Soil Conditioner,3564,82%
+Urea-Pro,Urea,Sugarcane,Stem Borer,248 ml,Ali Akbar Group,Herbicide,4804,77%
+Imidacloprid-Max,Imidacloprid,Wheat,Growth Regulation,19 kg,Ali Akbar Group,Soil Conditioner,4576,81%
+Carbendazim-Advance,Carbendazim,Vegetables,Bollworms,10 kg,Ali Akbar Group,Seed,5787,91%
+Zinc-Supreme,Zinc Sulfate,Oilseed,Downy Mildew,14 kg,Ali Akbar Group,Seed,6169,87%
+Nitrogen-Pro,Nitrogen,Maize,Stem Borer,24 kg,Ali Akbar Group,Soil Conditioner,1868,92%
+Alpha-Cypermethrin-Plus,Alpha-Cypermethrin,Cotton,Growth Regulation,42 kg,Ali Akbar Group,Soil Conditioner,2856,92%
+Carbendazim-Pro,Carbendazim,Legumes,Yellow Rust,14 kg,Ali Akbar Group,Micronutrient,1211,92%
+Chlorpyrifos-Pro,Chlorpyrifos,Sugarcane,Thrips,40 kg,Ali Akbar Group,Soil Conditioner,2289,94%
+Thiamethoxam-Eco,Thiamethoxam,Sugarcane,Blight,10 kg,Ali Akbar Group,Micronutrient,4772,82%
+Chlorpyrifos-Eco,Chlorpyrifos,Vegetables,Nutrient Deficiency,8 kg,Ali Akbar Group,Micronutrient,4282,87%
+Gibberellic-Plus,Gibberellic Acid,Cotton,Root Rot,320 ml,Ali Akbar Group,Herbicide,2457,80%
+Tricyclazole-Gold,Tricyclazole,Cotton,Blight,25 kg,Ali Akbar Group,Fertilizer,7003,80%
+Thiamethoxam-Tech,Thiamethoxam,Fruits,Downy Mildew,388 ml,Ali Akbar Group,Insecticide,2415,72%
+Urea-Eco,Urea,Oilseed,Downy Mildew,27 kg,Ali Akbar Group,Fertilizer,5526,99%
+Nitrogen-Max,Nitrogen,Wheat,Whitefly,23 kg,Ali Akbar Group,Fertilizer,5263,84%
+Alpha-Cypermethrin-Ultra,Alpha-Cypermethrin,Cotton,Root Rot,12 kg,Ali Akbar Group,Seed,3118,98%
+Potassium-Supreme,Potassium,Wheat,Bollworms,268 ml,Ali Akbar Group,Fungicide,1114,72%
+Tricyclazole-Pro,Tricyclazole,Vegetables,Blight,191 ml,Ali Akbar Group,Insecticide,1374,98%
+Alpha-Cypermethrin-Gold,Alpha-Cypermethrin,Rice,Stem Borer,478 ml,Ali Akbar Group,Fungicide,4657,85%
+Carfentrazone-ethyl-Eco,Carfentrazone-ethyl,Rice,Root Rot,334 ml,Ali Akbar Group,Herbicide,2727,78%
+Nitrogen-Ultra,Nitrogen,Cotton,Whitefly,32 kg,Ali Akbar Group,Soil Conditioner,1785,97%
+Glyphosate-Pro,Glyphosate,Cotton,Blight,18 kg,Ali Akbar Group,Soil Conditioner,4122,91%
+Glyphosate-Pro,Glyphosate,Sugarcane,Thrips,242 ml,Ali Akbar Group,Insecticide,1620,83%
+Glyphosate-Gold,Glyphosate,Maize,Growth Regulation,352 ml,Ali Akbar Group,Fungicide,2313,72%
+Potassium-Plus,Potassium,Wheat,Planting,30 kg,Ali Akbar Group,Soil Conditioner,3056,92%
+Phosphorus-Pro,Phosphorus,Legumes,Yellow Rust,11 kg,Ali Akbar Group,Micronutrient,4646,94%
+Zinc-Eco,Zinc Sulfate,Fruits,Planting,377 ml,Ali Akbar Group,Fungicide,1208,79%
+Mancozeb-Supreme,Mancozeb,Legumes,Thrips,11 kg,Ali Akbar Group,Seed,3269,90%
+Thiamethoxam-Supreme,Thiamethoxam,Legumes,Whitefly,200 ml,Ali Akbar Group,Herbicide,4010,80%
+Pyrethroid-Supreme,Pyrethroid,Rice,Downy Mildew,11 kg,Ali Akbar Group,Micronutrient,3839,99%
+Ethrel-Advance,Ethrel,Sugarcane,Aphids,151 ml,Ali Akbar Group,Fungicide,2126,73%
+Alpha-Cypermethrin-Max,Alpha-Cypermethrin,Oilseed,Bollworms,6 kg,Ali Akbar Group,Micronutrient,3557,97%
+Diammonium-Pro,Diammonium Phosphate (DAP),Maize,Soil Fertility Enhancement,136 ml,Ali Akbar Group,Plant Growth Regulator,2141,81%
+Azoxystrobin-Pro,Azoxystrobin,Oilseed,Whitefly,102 ml,Ali Akbar Group,Fungicide,4816,85%
+Chlorpyrifos-Tech,Chlorpyrifos,Rice,Soil Fertility Enhancement,188 ml,Ali Akbar Group,Insecticide,2508,89%
+Imidacloprid-Eco,Imidacloprid,Oilseed,Bollworms,10 kg,Ali Akbar Group,Soil Conditioner,5180,98%
+Gibberellic-Max,Gibberellic Acid,Sugarcane,Yellow Rust,20 kg,Ali Akbar Group,Micronutrient,2261,75%
+Pyrethroid-Bio,Pyrethroid,Wheat,Bollworms,16 kg,Ali Akbar Group,Micronutrient,1728,90%
+Azoxystrobin-Plus,Azoxystrobin,Oilseed,Growth Regulation,17 kg,Ali Akbar Group,Micronutrient,5124,90%
+Mancozeb-Advance,Mancozeb,Maize,Whitefly,27 kg,Ali Akbar Group,Fertilizer,6411,96%
+Phosphorus-Ultra,Phosphorus,Fruits,Bollworms,31 kg,Ali Akbar Group,Fertilizer,4651,81%
+Phosphorus-Advance,Phosphorus,Sugarcane,Planting,17 kg,Ali Akbar Group,Micronutrient,1919,91%
+Urea-Bio,Urea,Rice,Growth Regulation,200 ml,Ali Akbar Group,Fungicide,2325,72%
+Pyrethroid-Tech,Pyrethroid,Rice,Nutrient Deficiency,15 kg,Ali Akbar Group,Seed,6137,98%
+Azoxystrobin-Eco,Azoxystrobin,Vegetables,Soil Fertility Enhancement,177 ml,Ali Akbar Group,Herbicide,1614,92%
+Gibberellic-Gold,Gibberellic Acid,Oilseed,Leaf Rust,10 kg,Ali Akbar Group,Seed,1633,89%
+Phosphorus-Ultra,Phosphorus,Wheat,Bollworms,21 kg,Ali Akbar Group,Fertilizer,2796,91%
+Phosphorus-Bio,Phosphorus,Rice,Downy Mildew,16 kg,Ali Akbar Group,Micronutrient,1743,81%
+Pyrethroid-Eco,Pyrethroid,Rice,Leaf Rust,35 kg,Ali Akbar Group,Soil Conditioner,4107,93%
+Zinc-Pro,Zinc Sulfate,Cotton,Root Rot,147 ml,Ali Akbar Group,Plant Growth Regulator,2086,96%
+Gibberellic-Eco,Gibberellic Acid,Fruits,Whitefly,449 ml,Ali Akbar Group,Fungicide,1206,74%
+Pyrethroid-Tech,Pyrethroid,Vegetables,Soil pH Adjustment,43 kg,Ali Akbar Group,Soil Conditioner,4966,92%
+Ethrel-Tech,Ethrel,Cotton,Soil Fertility Enhancement,27 kg,Ali Akbar Group,Fertilizer,6476,88%
+Alpha-Cypermethrin-Tech,Alpha-Cypermethrin,Oilseed,Downy Mildew,117 ml,Ali Akbar Group,Fungicide,3902,79%
+Mancozeb-Supreme,Mancozeb,Sugarcane,Bollworms,8 kg,Ali Akbar Group,Micronutrient,4499,77%
+Chlorpyrifos-Pro,Chlorpyrifos,Cotton,Nutrient Deficiency,335 ml,Ali Akbar Group,Insecticide,1290,95%
+Chlorpyrifos-Plus,Chlorpyrifos,Fruits,Nutrient Deficiency,281 ml,Ali Akbar Group,Fungicide,1841,97%
+Alpha-Cypermethrin-Bio,Alpha-Cypermethrin,Legumes,Planting,12 kg,Ali Akbar Group,Seed,6451,91%
+Trichoderma-Supreme,Trichoderma Harzianum,Fruits,Planting,126 ml,Ali Akbar Group,Plant Growth Regulator,4445,96%
+Ethrel-Pro,Ethrel,Wheat,Stem Borer,202 ml,Ali Akbar Group,Insecticide,3004,73%
+Thiamethoxam-Max,Thiamethoxam,Legumes,Nutrient Deficiency,289 ml,Ali Akbar Group,Insecticide,3635,91%
+Ethrel-Bio,Ethrel,Vegetables,Stem Borer,20 kg,Ali Akbar Group,Fertilizer,5958,98%
+Diammonium-Pro,Diammonium Phosphate (DAP),Wheat,Thrips,33 kg,Ali Akbar Group,Fertilizer,3735,81%
+Pyrethroid-Ultra,Pyrethroid,Sugarcane,Aphids,210 ml,Ali Akbar Group,Insecticide,2263,79%
+Thiamethoxam-Advance,Thiamethoxam,Rice,Soil Fertility Enhancement,18 kg,Ali Akbar Group,Seed,1856,97%
+Nitrogen-Pro,Nitrogen,Sugarcane,Bollworms,6 kg,Ali Akbar Group,Micronutrient,5457,82%
+Carbendazim-Ultra,Carbendazim,Rice,Whitefly,83 ml,Sayban International,Plant Growth Regulator,5804,71%
+Potassium-Eco,Potassium,Oilseed,Yellow Rust,45 kg,Sayban International,Soil Conditioner,5436,89%
+Pyrethroid-Tech,Pyrethroid,Fruits,Soil pH Adjustment,20 kg,Sayban International,Fertilizer,3649,86%
+Pyrethroid-Tech,Pyrethroid,Fruits,Aphids,19 kg,Sayban International,Micronutrient,5650,83%
+Ethrel-Max,Ethrel,Sugarcane,Growth Regulation,486 ml,Sayban International,Insecticide,1657,87%
+Carfentrazone-ethyl-Ultra,Carfentrazone-ethyl,Cotton,Downy Mildew,152 ml,Sayban International,Plant Growth Regulator,1803,72%
+Zinc-Eco,Zinc Sulfate,Sugarcane,Aphids,155 ml,Sayban International,Insecticide,2341,72%
+Nitrogen-Plus,Nitrogen,Sugarcane,Stem Borer,8 kg,Sayban International,Micronutrient,4839,86%
+Thiamethoxam-Pro,Thiamethoxam,Sugarcane,Downy Mildew,481 ml,Sayban International,Herbicide,4309,92%
+Tricyclazole-Advance,Tricyclazole,Rice,Bollworms,208 ml,Sayban International,Fungicide,1241,85%
+Gibberellic-Eco,Gibberellic Acid,Sugarcane,Thrips,35 kg,Sayban International,Fertilizer,5134,94%
+Urea-Max,Urea,Cotton,Soil pH Adjustment,30 kg,Sayban International,Soil Conditioner,2508,91%
+Pyrethroid-Tech,Pyrethroid,Maize,Aphids,136 ml,Sayban International,Herbicide,2281,90%
+Imidacloprid-Bio,Imidacloprid,Wheat,Yellow Rust,416 ml,Sayban International,Insecticide,2180,91%
+Phosphorus-Plus,Phosphorus,Wheat,Root Rot,10 kg,Sayban International,Seed,3734,99%
+Diammonium-Advance,Diammonium Phosphate (DAP),Rice,Root Rot,175 ml,Sayban International,Fungicide,2310,81%
+Phosphorus-Supreme,Phosphorus,Wheat,Downy Mildew,18 kg,Sayban International,Seed,1548,94%
+Mancozeb-Pro,Mancozeb,Fruits,Blight,153 ml,Sayban International,Plant Growth Regulator,4769,90%
+Imidacloprid-Ultra,Imidacloprid,Vegetables,Aphids,485 ml,Sayban International,Fungicide,2952,91%
+Imidacloprid-Tech,Imidacloprid,Legumes,Nutrient Deficiency,15 kg,Sayban International,Soil Conditioner,4698,83%
+Gibberellic-Advance,Gibberellic Acid,Sugarcane,Growth Regulation,144 ml,Sayban International,Insecticide,2786,91%
+Carbendazim-Tech,Carbendazim,Legumes,Soil Fertility Enhancement,142 ml,Sayban International,Insecticide,4984,86%
+Pyrethroid-Plus,Pyrethroid,Sugarcane,Whitefly,228 ml,Sayban International,Fungicide,3467,84%
+Thiamethoxam-Max,Thiamethoxam,Rice,Thrips,43 kg,Sayban International,Soil Conditioner,4948,89%
+Gibberellic-Advance,Gibberellic Acid,Wheat,Root Rot,231 ml,Sayban International,Fungicide,3857,87%
+Tricyclazole-Gold,Tricyclazole,Vegetables,Soil Fertility Enhancement,118 ml,Sayban International,Fungicide,2032,70%
+Tricyclazole-Advance,Tricyclazole,Wheat,Stem Borer,11 kg,Sayban International,Seed,2460,87%
+Pyrethroid-Supreme,Pyrethroid,Cotton,Aphids,340 ml,Sayban International,Insecticide,2181,92%
+Zinc-Plus,Zinc Sulfate,Fruits,Whitefly,29 kg,Sayban International,Soil Conditioner,4044,97%
+Glyphosate-Supreme,Glyphosate,Fruits,Blight,351 ml,Sayban International,Insecticide,3055,70%
+Carbendazim-Tech,Carbendazim,Maize,Blight,114 ml,Sayban International,Plant Growth Regulator,4079,75%
+Thiamethoxam-Max,Thiamethoxam,Wheat,Soil Fertility Enhancement,16 kg,Sayban International,Seed,3915,86%
+Azoxystrobin-Eco,Azoxystrobin,Maize,Leaf Rust,124 ml,Sayban International,Herbicide,4265,83%
+Potassium-Pro,Potassium,Sugarcane,Whitefly,19 kg,Sayban International,Soil Conditioner,3122,88%
+Chlorpyrifos-Tech,Chlorpyrifos,Rice,Aphids,193 ml,Sayban International,Herbicide,3948,70%
+Phosphorus-Ultra,Phosphorus,Oilseed,Stem Borer,13 kg,Sayban International,Soil Conditioner,1753,99%
+Zinc-Tech,Zinc Sulfate,Vegetables,Downy Mildew,101 ml,Sayban International,Fungicide,3995,91%
+Pyrethroid-Tech,Pyrethroid,Vegetables,Thrips,50 kg,Sayban International,Soil Conditioner,4326,81%
+Imidacloprid-Eco,Imidacloprid,Legumes,Yellow Rust,116 ml,Sayban International,Plant Growth Regulator,4347,90%
+Mancozeb-Bio,Mancozeb,Wheat,Nutrient Deficiency,53 ml,Sayban International,Plant Growth Regulator,3922,93%
+Zinc-Eco,Zinc Sulfate,Rice,Soil Fertility Enhancement,208 ml,Sayban International,Insecticide,4550,90%
+Thiamethoxam-Plus,Thiamethoxam,Oilseed,Blight,16 kg,Sayban International,Seed,1805,94%
+Tricyclazole-Ultra,Tricyclazole,Oilseed,Bollworms,23 kg,Sayban International,Fertilizer,4540,86%
+Tricyclazole-Gold,Tricyclazole,Sugarcane,Downy Mildew,32 kg,Sayban International,Fertilizer,4845,81%
+Tricyclazole-Max,Tricyclazole,Cotton,Yellow Rust,44 kg,Sayban International,Soil Conditioner,3388,84%
+Nitrogen-Pro,Nitrogen,Maize,Leaf Rust,15 kg,Sayban International,Seed,1909,92%
+Carbendazim-Supreme,Carbendazim,Vegetables,Bollworms,439 ml,Sayban International,Fungicide,2354,72%
+Trichoderma-Tech,Trichoderma Harzianum,Legumes,Blight,15 kg,Sayban International,Micronutrient,5861,75%
+Gibberellic-Pro,Gibberellic Acid,Fruits,Nutrient Deficiency,109 ml,Sayban International,Insecticide,1580,88%
+Gibberellic-Ultra,Gibberellic Acid,Maize,Blight,33 kg,Sayban International,Fertilizer,4934,92%
+Potassium-Pro,Potassium,Sugarcane,Aphids,18 kg,Sayban International,Seed,3318,92%
+Glyphosate-Supreme,Glyphosate,Rice,Thrips,41 kg,Sayban International,Fertilizer,7323,98%
+Glyphosate-Plus,Glyphosate,Legumes,Aphids,34 kg,Sayban International,Fertilizer,6214,88%
+Ethrel-Gold,Ethrel,Wheat,Stem Borer,41 kg,Sayban International,Fertilizer,5904,87%
+Pyrethroid-Bio,Pyrethroid,Wheat,Root Rot,236 ml,Sayban International,Insecticide,1932,83%
+Carbendazim-Supreme,Carbendazim,Maize,Blight,345 ml,Sayban International,Insecticide,2088,96%
+Imidacloprid-Supreme,Imidacloprid,Vegetables,Whitefly,486 ml,Sayban International,Herbicide,4144,83%
+Glyphosate-Advance,Glyphosate,Sugarcane,Stem Borer,148 ml,Sayban International,Fungicide,4762,72%
+Urea-Tech,Urea,Fruits,Planting,20 kg,Sayban International,Micronutrient,4165,75%
+Ethrel-Plus,Ethrel,Fruits,Nutrient Deficiency,35 kg,Sayban International,Fertilizer,6862,86%
+Tricyclazole-Plus,Tricyclazole,Legumes,Nutrient Deficiency,47 kg,Sayban International,Fertilizer,5911,94%
+Gibberellic-Supreme,Gibberellic Acid,Rice,Planting,125 ml,Sayban International,Plant Growth Regulator,5920,70%
+Azoxystrobin-Tech,Azoxystrobin,Oilseed,Leaf Rust,152 ml,Sayban International,Fungicide,2243,97%
+Phosphorus-Bio,Phosphorus,Oilseed,Planting,7 kg,Sayban International,Micronutrient,1977,81%
+Carbendazim-Tech,Carbendazim,Sugarcane,Blight,14 kg,Sayban International,Seed,4209,91%
+Tricyclazole-Plus,Tricyclazole,Maize,Soil Fertility Enhancement,117 ml,Sayban International,Fungicide,2758,77%
+Carfentrazone-ethyl-Pro,Carfentrazone-ethyl,Rice,Stem Borer,64 ml,Sayban International,Plant Growth Regulator,4610,76%
+Thiamethoxam-Plus,Thiamethoxam,Wheat,Soil Fertility Enhancement,13 kg,Sayban International,Seed,1976,90%
+Gibberellic-Supreme,Gibberellic Acid,Wheat,Yellow Rust,223 ml,Sayban International,Insecticide,4741,72%
+Tricyclazole-Eco,Tricyclazole,Legumes,Downy Mildew,8 kg,Sayban International,Micronutrient,4426,78%
+Nitrogen-Supreme,Nitrogen,Sugarcane,Aphids,135 ml,Sayban International,Fungicide,3819,78%
+Pyrethroid-Pro,Pyrethroid,Cotton,Planting,254 ml,Sayban International,Herbicide,3518,87%
+Thiamethoxam-Pro,Thiamethoxam,Cotton,Downy Mildew,6 kg,Sayban International,Micronutrient,2034,85%
+Nitrogen-Tech,Nitrogen,Cotton,Stem Borer,139 ml,Sayban International,Plant Growth Regulator,4165,74%
+Pyrethroid-Pro,Pyrethroid,Cotton,Thrips,242 ml,Sayban International,Insecticide,1665,78%
+Imidacloprid-Gold,Imidacloprid,Oilseed,Whitefly,178 ml,Sayban International,Herbicide,3972,76%
+Mancozeb-Pro,Mancozeb,Cotton,Aphids,17 kg,Sayban International,Micronutrient,5282,84%
+Urea-Gold,Urea,Wheat,Aphids,39 kg,Sayban International,Soil Conditioner,4554,95%
+Zinc-Bio,Zinc Sulfate,Rice,Whitefly,14 kg,Sayban International,Seed,5629,92%
+Imidacloprid-Pro,Imidacloprid,Maize,Bollworms,251 ml,Sayban International,Insecticide,3047,76%
+Urea-Pro,Urea,Vegetables,Bollworms,165 ml,Sayban International,Fungicide,4996,82%
+Zinc-Supreme,Zinc Sulfate,Rice,Whitefly,20 kg,Sayban International,Micronutrient,1211,82%
+Diammonium-Supreme,Diammonium Phosphate (DAP),Sugarcane,Blight,131 ml,Sayban International,Fungicide,1041,82%
+Chlorpyrifos-Ultra,Chlorpyrifos,Legumes,Leaf Rust,15 kg,Sayban International,Micronutrient,4153,82%
+Carfentrazone-ethyl-Plus,Carfentrazone-ethyl,Maize,Growth Regulation,15 kg,Sayban International,Seed,5527,99%
+Azoxystrobin-Tech,Azoxystrobin,Oilseed,Root Rot,339 ml,Sayban International,Fungicide,3379,79%
+Potassium-Gold,Potassium,Maize,Nutrient Deficiency,24 kg,Sayban International,Fertilizer,6977,86%
+Imidacloprid-Gold,Imidacloprid,Legumes,Leaf Rust,399 ml,Sayban International,Insecticide,4850,70%
+Azoxystrobin-Plus,Azoxystrobin,Sugarcane,Root Rot,40 kg,Sayban International,Soil Conditioner,4282,94%
+Tricyclazole-Max,Tricyclazole,Wheat,Aphids,461 ml,Sayban International,Herbicide,4434,79%
+Carfentrazone-ethyl-Tech,Carfentrazone-ethyl,Cotton,Whitefly,10 kg,Sayban International,Soil Conditioner,5388,97%
+Urea-Tech,Urea,Oilseed,Growth Regulation,292 ml,Sayban International,Insecticide,4660,70%
+Glyphosate-Bio,Glyphosate,Cotton,Whitefly,17 kg,Sayban International,Soil Conditioner,5109,94%
+Nitrogen-Plus,Nitrogen,Maize,Planting,14 kg,Sayban International,Seed,4513,89%
+Mancozeb-Ultra,Mancozeb,Maize,Blight,59 ml,Sayban International,Plant Growth Regulator,3269,86%
+Imidacloprid-Gold,Imidacloprid,Fruits,Aphids,327 ml,Sayban International,Fungicide,3217,99%
+Tricyclazole-Eco,Tricyclazole,Cotton,Root Rot,466 ml,Sayban International,Fungicide,2166,92%
+Gibberellic-Eco,Gibberellic Acid,Oilseed,Bollworms,28 kg,Sayban International,Soil Conditioner,5584,81%
+Carbendazim-Eco,Carbendazim,Maize,Soil pH Adjustment,79 ml,Sayban International,Plant Growth Regulator,2575,99%
+Azoxystrobin-Advance,Azoxystrobin,Legumes,Soil Fertility Enhancement,25 kg,Sayban International,Soil Conditioner,4811,89%
+Gibberellic-Ultra,Gibberellic Acid,Fruits,Aphids,71 ml,Four Brothers,Plant Growth Regulator,5971,85%
+Nitrogen-Gold,Nitrogen,Oilseed,Nutrient Deficiency,430 ml,Four Brothers,Insecticide,2759,87%
+Carfentrazone-ethyl-Tech,Carfentrazone-ethyl,Vegetables,Aphids,14 kg,Four Brothers,Seed,2145,87%
+Alpha-Cypermethrin-Pro,Alpha-Cypermethrin,Maize,Yellow Rust,339 ml,Four Brothers,Fungicide,4858,93%
+Carbendazim-Bio,Carbendazim,Oilseed,Soil Fertility Enhancement,199 ml,Four Brothers,Fungicide,2124,71%
+Urea-Tech,Urea,Rice,Aphids,187 ml,Four Brothers,Plant Growth Regulator,5599,84%
+Potassium-Eco,Potassium,Maize,Yellow Rust,442 ml,Four Brothers,Fungicide,1887,74%
+Chlorpyrifos-Pro,Chlorpyrifos,Wheat,Downy Mildew,350 ml,Four Brothers,Fungicide,2177,74%
+Gibberellic-Ultra,Gibberellic Acid,Wheat,Thrips,14 kg,Four Brothers,Seed,1831,87%
+Potassium-Advance,Potassium,Oilseed,Downy Mildew,478 ml,Four Brothers,Herbicide,1285,95%
+Mancozeb-Advance,Mancozeb,Fruits,Thrips,6 kg,Four Brothers,Micronutrient,5390,84%
+Glyphosate-Tech,Glyphosate,Cotton,Yellow Rust,380 ml,Four Brothers,Herbicide,4412,79%
+Zinc-Bio,Zinc Sulfate,Sugarcane,Whitefly,337 ml,Four Brothers,Fungicide,3775,97%
+Alpha-Cypermethrin-Plus,Alpha-Cypermethrin,Cotton,Leaf Rust,12 kg,Four Brothers,Seed,5791,95%
+Alpha-Cypermethrin-Eco,Alpha-Cypermethrin,Sugarcane,Root Rot,119 ml,Four Brothers,Insecticide,4652,77%
+Ethrel-Supreme,Ethrel,Legumes,Downy Mildew,23 kg,Four Brothers,Soil Conditioner,1851,84%
+Urea-Bio,Urea,Maize,Bollworms,10 kg,Four Brothers,Seed,6229,96%
+Carfentrazone-ethyl-Tech,Carfentrazone-ethyl,Vegetables,Whitefly,351 ml,Four Brothers,Insecticide,4962,90%
+Ethrel-Ultra,Ethrel,Sugarcane,Leaf Rust,5 kg,Four Brothers,Micronutrient,5932,98%
+Carbendazim-Tech,Carbendazim,Sugarcane,Leaf Rust,13 kg,Four Brothers,Seed,3703,95%
+Gibberellic-Tech,Gibberellic Acid,Legumes,Planting,44 kg,Four Brothers,Soil Conditioner,1667,80%
+Trichoderma-Advance,Trichoderma Harzianum,Vegetables,Soil pH Adjustment,42 kg,Four Brothers,Fertilizer,6283,95%
+Zinc-Max,Zinc Sulfate,Rice,Root Rot,14 kg,Four Brothers,Micronutrient,2879,76%
+Phosphorus-Ultra,Phosphorus,Fruits,Nutrient Deficiency,110 ml,Four Brothers,Insecticide,1677,80%
+Trichoderma-Gold,Trichoderma Harzianum,Cotton,Root Rot,18 kg,Four Brothers,Seed,3631,95%
+Trichoderma-Pro,Trichoderma Harzianum,Wheat,Yellow Rust,13 kg,Four Brothers,Micronutrient,2333,91%
+Urea-Tech,Urea,Rice,Bollworms,226 ml,Four Brothers,Fungicide,2011,84%
+Glyphosate-Pro,Glyphosate,Vegetables,Soil Fertility Enhancement,12 kg,Four Brothers,Seed,2730,97%
+Phosphorus-Bio,Phosphorus,Oilseed,Whitefly,453 ml,Four Brothers,Fungicide,3817,99%
+Gibberellic-Bio,Gibberellic Acid,Fruits,Stem Borer,109 ml,Four Brothers,Plant Growth Regulator,3066,78%
+Ethrel-Plus,Ethrel,Rice,Thrips,126 ml,Four Brothers,Fungicide,2747,79%
+Glyphosate-Eco,Glyphosate,Legumes,Yellow Rust,30 kg,Four Brothers,Soil Conditioner,4818,86%
+Azoxystrobin-Plus,Azoxystrobin,Fruits,Downy Mildew,276 ml,Four Brothers,Fungicide,3082,82%
+Azoxystrobin-Eco,Azoxystrobin,Fruits,Aphids,6 kg,Four Brothers,Micronutrient,1821,91%
+Glyphosate-Pro,Glyphosate,Fruits,Planting,32 kg,Four Brothers,Soil Conditioner,1898,90%
+Potassium-Bio,Potassium,Legumes,Stem Borer,141 ml,Four Brothers,Insecticide,4753,96%
+Zinc-Pro,Zinc Sulfate,Oilseed,Whitefly,70 ml,Four Brothers,Plant Growth Regulator,5797,86%
+Thiamethoxam-Max,Thiamethoxam,Oilseed,Stem Borer,112 ml,Four Brothers,Fungicide,1476,74%
+Carbendazim-Supreme,Carbendazim,Fruits,Growth Regulation,17 kg,Four Brothers,Seed,6301,95%
+Ethrel-Eco,Ethrel,Oilseed,Thrips,180 ml,Four Brothers,Plant Growth Regulator,4905,70%
+Thiamethoxam-Advance,Thiamethoxam,Maize,Leaf Rust,354 ml,Four Brothers,Insecticide,1632,81%
+Phosphorus-Max,Phosphorus,Oilseed,Planting,32 kg,Four Brothers,Soil Conditioner,4428,93%
+Thiamethoxam-Plus,Thiamethoxam,Wheat,Leaf Rust,130 ml,Four Brothers,Herbicide,3232,84%
+Pyrethroid-Supreme,Pyrethroid,Wheat,Soil pH Adjustment,372 ml,Four Brothers,Fungicide,2619,77%
+Tricyclazole-Gold,Tricyclazole,Wheat,Downy Mildew,244 ml,Four Brothers,Insecticide,3685,78%
+Pyrethroid-Ultra,Pyrethroid,Sugarcane,Aphids,152 ml,Four Brothers,Herbicide,3304,92%
+Carbendazim-Gold,Carbendazim,Cotton,Bollworms,46 kg,Four Brothers,Soil Conditioner,2979,87%
+Azoxystrobin-Tech,Azoxystrobin,Oilseed,Bollworms,18 kg,Four Brothers,Micronutrient,5387,82%
+Alpha-Cypermethrin-Bio,Alpha-Cypermethrin,Fruits,Planting,7 kg,Four Brothers,Micronutrient,2086,98%
+Alpha-Cypermethrin-Max,Alpha-Cypermethrin,Vegetables,Soil Fertility Enhancement,18 kg,Four Brothers,Micronutrient,2507,92%
+Ethrel-Advance,Ethrel,Legumes,Planting,28 kg,Four Brothers,Soil Conditioner,1827,84%
+Thiamethoxam-Supreme,Thiamethoxam,Cotton,Thrips,19 kg,Four Brothers,Seed,1887,92%
+Glyphosate-Advance,Glyphosate,Sugarcane,Blight,298 ml,Four Brothers,Herbicide,1224,75%
+Pyrethroid-Eco,Pyrethroid,Maize,Blight,89 ml,Four Brothers,Plant Growth Regulator,3393,95%
+Trichoderma-Tech,Trichoderma Harzianum,Legumes,Root Rot,273 ml,Four Brothers,Insecticide,4229,97%
+Imidacloprid-Tech,Imidacloprid,Sugarcane,Planting,126 ml,Four Brothers,Herbicide,4835,88%
+Glyphosate-Tech,Glyphosate,Maize,Stem Borer,21 kg,Four Brothers,Fertilizer,3340,87%
+Chlorpyrifos-Plus,Chlorpyrifos,Fruits,Soil Fertility Enhancement,383 ml,Four Brothers,Insecticide,2488,85%
+Tricyclazole-Supreme,Tricyclazole,Sugarcane,Stem Borer,149 ml,Four Brothers,Plant Growth Regulator,3983,80%
+Glyphosate-Gold,Glyphosate,Maize,Soil Fertility Enhancement,407 ml,Four Brothers,Fungicide,1479,81%
+Glyphosate-Ultra,Glyphosate,Rice,Leaf Rust,17 kg,Four Brothers,Seed,4157,94%
+Alpha-Cypermethrin-Eco,Alpha-Cypermethrin,Cotton,Aphids,154 ml,Four Brothers,Fungicide,2060,92%
+Nitrogen-Bio,Nitrogen,Maize,Stem Borer,12 kg,Four Brothers,Seed,4672,90%
+Chlorpyrifos-Advance,Chlorpyrifos,Cotton,Bollworms,141 ml,Four Brothers,Insecticide,3734,94%
+Imidacloprid-Max,Imidacloprid,Vegetables,Aphids,238 ml,Four Brothers,Fungicide,4476,81%
+Trichoderma-Advance,Trichoderma Harzianum,Maize,Whitefly,488 ml,Four Brothers,Herbicide,4278,75%
+Tricyclazole-Ultra,Tricyclazole,Legumes,Aphids,311 ml,Four Brothers,Herbicide,1506,80%
+Trichoderma-Max,Trichoderma Harzianum,Fruits,Thrips,386 ml,Four Brothers,Fungicide,2595,99%
+Trichoderma-Advance,Trichoderma Harzianum,Maize,Aphids,449 ml,Four Brothers,Insecticide,3793,75%
+Azoxystrobin-Max,Azoxystrobin,Legumes,Stem Borer,14 kg,Four Brothers,Seed,3319,87%
+Glyphosate-Supreme,Glyphosate,Maize,Whitefly,186 ml,Four Brothers,Insecticide,2999,89%
+Tricyclazole-Eco,Tricyclazole,Wheat,Blight,228 ml,Four Brothers,Herbicide,3088,73%
+Potassium-Ultra,Potassium,Rice,Planting,6 kg,Four Brothers,Micronutrient,2758,89%
+Imidacloprid-Gold,Imidacloprid,Sugarcane,Soil Fertility Enhancement,23 kg,Four Brothers,Fertilizer,6353,81%
+Thiamethoxam-Bio,Thiamethoxam,Rice,Soil pH Adjustment,6 kg,Four Brothers,Micronutrient,3466,87%
+Gibberellic-Max,Gibberellic Acid,Fruits,Growth Regulation,16 kg,Four Brothers,Micronutrient,3917,85%
+Chlorpyrifos-Plus,Chlorpyrifos,Cotton,Yellow Rust,283 ml,Four Brothers,Fungicide,3339,87%
+Pyrethroid-Bio,Pyrethroid,Oilseed,Growth Regulation,12 kg,Four Brothers,Seed,3038,87%
+Ethrel-Bio,Ethrel,Rice,Growth Regulation,17 kg,Four Brothers,Seed,5578,86%
+Thiamethoxam-Advance,Thiamethoxam,Wheat,Aphids,123 ml,Four Brothers,Plant Growth Regulator,1623,98%
+Ethrel-Ultra,Ethrel,Legumes,Soil pH Adjustment,46 kg,Four Brothers,Fertilizer,2758,92%
+Gibberellic-Max,Gibberellic Acid,Rice,Blight,17 kg,Four Brothers,Micronutrient,4271,80%
+Carfentrazone-ethyl-Supreme,Carfentrazone-ethyl,Oilseed,Whitefly,469 ml,Four Brothers,Fungicide,1287,75%
+Tricyclazole-Ultra,Tricyclazole,Cotton,Growth Regulation,16 kg,Four Brothers,Seed,1630,98%
+Ethrel-Tech,Ethrel,Wheat,Bollworms,20 kg,Four Brothers,Fertilizer,5782,87%
+Phosphorus-Plus,Phosphorus,Legumes,Downy Mildew,12 kg,Four Brothers,Soil Conditioner,5779,99%
+Thiamethoxam-Max,Thiamethoxam,Rice,Growth Regulation,175 ml,Four Brothers,Plant Growth Regulator,5537,93%
+Alpha-Cypermethrin-Gold,Alpha-Cypermethrin,Maize,Planting,155 ml,Four Brothers,Herbicide,1004,81%
+Gibberellic-Max,Gibberellic Acid,Cotton,Leaf Rust,11 kg,Four Brothers,Seed,2524,87%
+Nitrogen-Max,Nitrogen,Legumes,Downy Mildew,84 ml,Four Brothers,Plant Growth Regulator,1571,96%
+Phosphorus-Pro,Phosphorus,Legumes,Planting,484 ml,Four Brothers,Herbicide,2174,75%
+Tricyclazole-Pro,Tricyclazole,Cotton,Planting,35 kg,Four Brothers,Fertilizer,2626,87%
+Alpha-Cypermethrin-Bio,Alpha-Cypermethrin,Maize,Soil Fertility Enhancement,11 kg,Four Brothers,Soil Conditioner,1562,99%
+Pyrethroid-Supreme,Pyrethroid,Oilseed,Whitefly,18 kg,Four Brothers,Micronutrient,2478,97%
+Carbendazim-Gold,Carbendazim,Fruits,Root Rot,380 ml,Four Brothers,Herbicide,4556,97%
+Pyrethroid-Max,Pyrethroid,Oilseed,Growth Regulation,125 ml,Four Brothers,Insecticide,3291,91%
+Carfentrazone-ethyl-Gold,Carfentrazone-ethyl,Vegetables,Blight,400 ml,Four Brothers,Herbicide,3919,95%
+Carfentrazone-ethyl-Tech,Carfentrazone-ethyl,Cotton,Nutrient Deficiency,41 kg,Four Brothers,Fertilizer,5231,99%
+Tricyclazole-Bio,Tricyclazole,Legumes,Blight,165 ml,Four Brothers,Plant Growth Regulator,4031,85%
+Nitrogen-Bio,Nitrogen,Oilseed,Soil pH Adjustment,393 ml,Four Brothers,Herbicide,1993,70%
+Trichoderma-Pro,Trichoderma Harzianum,Oilseed,Downy Mildew,10 kg,BASF Pakistan,Seed,2734,92%
+Trichoderma-Gold,Trichoderma Harzianum,Legumes,Leaf Rust,160 ml,BASF Pakistan,Plant Growth Regulator,3106,78%
+Diammonium-Bio,Diammonium Phosphate (DAP),Maize,Whitefly,38 kg,BASF Pakistan,Soil Conditioner,4633,80%
+Ethrel-Ultra,Ethrel,Sugarcane,Thrips,168 ml,BASF Pakistan,Herbicide,1970,73%
+Azoxystrobin-Gold,Azoxystrobin,Maize,Soil pH Adjustment,12 kg,BASF Pakistan,Seed,5041,88%
+Pyrethroid-Pro,Pyrethroid,Maize,Whitefly,198 ml,BASF Pakistan,Plant Growth Regulator,4942,91%
+Azoxystrobin-Bio,Azoxystrobin,Oilseed,Soil pH Adjustment,25 kg,BASF Pakistan,Fertilizer,2345,93%
+Nitrogen-Advance,Nitrogen,Oilseed,Whitefly,361 ml,BASF Pakistan,Insecticide,4486,78%
+Pyrethroid-Plus,Pyrethroid,Oilseed,Yellow Rust,50 kg,BASF Pakistan,Fertilizer,7774,80%
+Trichoderma-Advance,Trichoderma Harzianum,Cotton,Soil pH Adjustment,105 ml,BASF Pakistan,Plant Growth Regulator,5464,82%
+Pyrethroid-Max,Pyrethroid,Oilseed,Aphids,215 ml,BASF Pakistan,Herbicide,3188,74%
+Carfentrazone-ethyl-Pro,Carfentrazone-ethyl,Cotton,Soil pH Adjustment,7 kg,BASF Pakistan,Micronutrient,3158,82%
+Mancozeb-Pro,Mancozeb,Fruits,Soil pH Adjustment,57 ml,BASF Pakistan,Plant Growth Regulator,3385,92%
+Carbendazim-Max,Carbendazim,Legumes,Downy Mildew,12 kg,BASF Pakistan,Micronutrient,5956,97%
+Trichoderma-Bio,Trichoderma Harzianum,Legumes,Planting,47 kg,BASF Pakistan,Fertilizer,3570,93%
+Carbendazim-Max,Carbendazim,Maize,Root Rot,16 kg,BASF Pakistan,Seed,2497,89%
+Thiamethoxam-Supreme,Thiamethoxam,Cotton,Root Rot,398 ml,BASF Pakistan,Insecticide,4260,99%
+Urea-Ultra,Urea,Legumes,Root Rot,14 kg,BASF Pakistan,Micronutrient,4820,93%
+Carbendazim-Max,Carbendazim,Legumes,Leaf Rust,495 ml,BASF Pakistan,Herbicide,1925,79%
+Alpha-Cypermethrin-Max,Alpha-Cypermethrin,Rice,Soil Fertility Enhancement,40 kg,BASF Pakistan,Soil Conditioner,3720,89%
+Azoxystrobin-Tech,Azoxystrobin,Oilseed,Soil pH Adjustment,498 ml,BASF Pakistan,Fungicide,2720,90%
+Chlorpyrifos-Supreme,Chlorpyrifos,Legumes,Soil Fertility Enhancement,34 kg,BASF Pakistan,Fertilizer,5149,85%
+Pyrethroid-Supreme,Pyrethroid,Cotton,Stem Borer,483 ml,BASF Pakistan,Herbicide,1551,89%
+Thiamethoxam-Bio,Thiamethoxam,Rice,Growth Regulation,426 ml,BASF Pakistan,Insecticide,2816,71%
+Ethrel-Pro,Ethrel,Maize,Yellow Rust,35 kg,BASF Pakistan,Soil Conditioner,3632,97%
+Chlorpyrifos-Gold,Chlorpyrifos,Wheat,Yellow Rust,389 ml,BASF Pakistan,Insecticide,1853,84%
+Nitrogen-Eco,Nitrogen,Maize,Yellow Rust,49 kg,BASF Pakistan,Soil Conditioner,5407,90%
+Azoxystrobin-Plus,Azoxystrobin,Sugarcane,Leaf Rust,218 ml,BASF Pakistan,Herbicide,2840,96%
+Chlorpyrifos-Plus,Chlorpyrifos,Maize,Blight,18 kg,BASF Pakistan,Micronutrient,4781,81%
+Thiamethoxam-Gold,Thiamethoxam,Sugarcane,Stem Borer,163 ml,BASF Pakistan,Plant Growth Regulator,1279,96%
+Zinc-Gold,Zinc Sulfate,Cotton,Planting,121 ml,BASF Pakistan,Plant Growth Regulator,5311,86%
+Phosphorus-Max,Phosphorus,Wheat,Nutrient Deficiency,18 kg,BASF Pakistan,Micronutrient,3263,98%
+Tricyclazole-Ultra,Tricyclazole,Cotton,Thrips,365 ml,BASF Pakistan,Fungicide,1086,94%
+Carbendazim-Eco,Carbendazim,Legumes,Thrips,35 kg,BASF Pakistan,Fertilizer,4765,81%
+Nitrogen-Ultra,Nitrogen,Legumes,Blight,16 kg,BASF Pakistan,Micronutrient,4166,89%
+Glyphosate-Pro,Glyphosate,Wheat,Soil Fertility Enhancement,13 kg,BASF Pakistan,Soil Conditioner,2361,80%
+Alpha-Cypermethrin-Plus,Alpha-Cypermethrin,Oilseed,Leaf Rust,9 kg,BASF Pakistan,Micronutrient,5220,92%
+Urea-Advance,Urea,Vegetables,Downy Mildew,19 kg,BASF Pakistan,Micronutrient,3559,92%
+Zinc-Ultra,Zinc Sulfate,Vegetables,Planting,101 ml,BASF Pakistan,Plant Growth Regulator,3597,97%
+Alpha-Cypermethrin-Advance,Alpha-Cypermethrin,Rice,Nutrient Deficiency,212 ml,BASF Pakistan,Insecticide,1527,78%
+Zinc-Plus,Zinc Sulfate,Legumes,Nutrient Deficiency,157 ml,BASF Pakistan,Herbicide,2547,99%
+Azoxystrobin-Advance,Azoxystrobin,Oilseed,Leaf Rust,487 ml,BASF Pakistan,Herbicide,2092,80%
+Zinc-Eco,Zinc Sulfate,Vegetables,Whitefly,17 kg,BASF Pakistan,Seed,5456,89%
+Carfentrazone-ethyl-Tech,Carfentrazone-ethyl,Legumes,Planting,278 ml,BASF Pakistan,Herbicide,3228,73%
+Imidacloprid-Bio,Imidacloprid,Fruits,Aphids,150 ml,BASF Pakistan,Plant Growth Regulator,1421,72%
+Tricyclazole-Pro,Tricyclazole,Rice,Yellow Rust,438 ml,BASF Pakistan,Insecticide,4464,91%
+Potassium-Tech,Potassium,Legumes,Downy Mildew,41 kg,BASF Pakistan,Fertilizer,3952,84%
+Trichoderma-Advance,Trichoderma Harzianum,Wheat,Soil Fertility Enhancement,109 ml,BASF Pakistan,Herbicide,1789,81%
+Pyrethroid-Tech,Pyrethroid,Oilseed,Nutrient Deficiency,15 kg,BASF Pakistan,Seed,1695,85%
+Urea-Ultra,Urea,Legumes,Planting,57 ml,BASF Pakistan,Plant Growth Regulator,2178,80%
+Carbendazim-Advance,Carbendazim,Cotton,Blight,34 kg,BASF Pakistan,Fertilizer,5417,90%
+Glyphosate-Advance,Glyphosate,Oilseed,Downy Mildew,46 kg,BASF Pakistan,Fertilizer,5683,90%
+Thiamethoxam-Bio,Thiamethoxam,Fruits,Leaf Rust,13 kg,BASF Pakistan,Micronutrient,4781,85%
+Alpha-Cypermethrin-Plus,Alpha-Cypermethrin,Cotton,Soil Fertility Enhancement,37 kg,BASF Pakistan,Soil Conditioner,1695,80%
+Gibberellic-Tech,Gibberellic Acid,Rice,Blight,168 ml,BASF Pakistan,Plant Growth Regulator,2329,88%
+Pyrethroid-Gold,Pyrethroid,Cotton,Growth Regulation,5 kg,BASF Pakistan,Micronutrient,1787,82%
+Alpha-Cypermethrin-Pro,Alpha-Cypermethrin,Oilseed,Whitefly,13 kg,BASF Pakistan,Seed,3015,95%
+Gibberellic-Max,Gibberellic Acid,Vegetables,Thrips,319 ml,BASF Pakistan,Fungicide,2112,88%
+Urea-Ultra,Urea,Cotton,Blight,371 ml,BASF Pakistan,Fungicide,1864,86%
+Chlorpyrifos-Bio,Chlorpyrifos,Cotton,Thrips,29 kg,BASF Pakistan,Fertilizer,4944,81%
+Pyrethroid-Tech,Pyrethroid,Legumes,Growth Regulation,44 kg,BASF Pakistan,Fertilizer,3414,90%
+Urea-Pro,Urea,Rice,Nutrient Deficiency,13 kg,BASF Pakistan,Seed,5292,87%
+Carfentrazone-ethyl-Tech,Carfentrazone-ethyl,Sugarcane,Aphids,433 ml,BASF Pakistan,Fungicide,3952,95%
+Potassium-Plus,Potassium,Maize,Stem Borer,6 kg,BASF Pakistan,Micronutrient,3932,88%
+Glyphosate-Tech,Glyphosate,Rice,Leaf Rust,26 kg,BASF Pakistan,Soil Conditioner,3187,92%
+Pyrethroid-Max,Pyrethroid,Rice,Thrips,49 kg,BASF Pakistan,Fertilizer,5277,87%
+Alpha-Cypermethrin-Pro,Alpha-Cypermethrin,Vegetables,Yellow Rust,38 kg,BASF Pakistan,Fertilizer,3461,86%
+Carfentrazone-ethyl-Supreme,Carfentrazone-ethyl,Fruits,Growth Regulation,16 kg,BASF Pakistan,Seed,6967,93%
+Mancozeb-Eco,Mancozeb,Legumes,Stem Borer,16 kg,BASF Pakistan,Soil Conditioner,3131,86%
+Pyrethroid-Eco,Pyrethroid,Sugarcane,Blight,42 kg,BASF Pakistan,Fertilizer,5291,87%
+Ethrel-Supreme,Ethrel,Legumes,Growth Regulation,490 ml,BASF Pakistan,Fungicide,1416,81%
+Urea-Advance,Urea,Legumes,Leaf Rust,18 kg,BASF Pakistan,Seed,1619,99%
+Mancozeb-Plus,Mancozeb,Rice,Bollworms,18 kg,BASF Pakistan,Seed,2941,95%
+Nitrogen-Advance,Nitrogen,Oilseed,Leaf Rust,188 ml,BASF Pakistan,Plant Growth Regulator,3438,86%
+Thiamethoxam-Bio,Thiamethoxam,Vegetables,Downy Mildew,14 kg,BASF Pakistan,Micronutrient,1515,89%
+Chlorpyrifos-Bio,Chlorpyrifos,Legumes,Blight,435 ml,BASF Pakistan,Fungicide,1807,99%
+Pyrethroid-Gold,Pyrethroid,Rice,Downy Mildew,25 kg,BASF Pakistan,Fertilizer,5059,89%
+Zinc-Max,Zinc Sulfate,Fruits,Bollworms,28 kg,BASF Pakistan,Fertilizer,4251,88%
+Nitrogen-Pro,Nitrogen,Vegetables,Nutrient Deficiency,5 kg,BASF Pakistan,Micronutrient,5343,95%
+Potassium-Pro,Potassium,Cotton,Soil Fertility Enhancement,135 ml,BASF Pakistan,Herbicide,1491,71%
+Urea-Pro,Urea,Rice,Soil pH Adjustment,27 kg,BASF Pakistan,Fertilizer,5321,80%
+Carbendazim-Eco,Carbendazim,Rice,Aphids,221 ml,BASF Pakistan,Fungicide,1829,96%
+Gibberellic-Max,Gibberellic Acid,Wheat,Downy Mildew,20 kg,BASF Pakistan,Seed,2802,99%
+Azoxystrobin-Max,Azoxystrobin,Rice,Root Rot,18 kg,BASF Pakistan,Micronutrient,2841,76%
+Gibberellic-Advance,Gibberellic Acid,Rice,Root Rot,89 ml,BASF Pakistan,Plant Growth Regulator,4935,76%
+Phosphorus-Ultra,Phosphorus,Sugarcane,Stem Borer,10 kg,BASF Pakistan,Seed,2443,85%
+Tricyclazole-Tech,Tricyclazole,Rice,Yellow Rust,200 ml,BASF Pakistan,Plant Growth Regulator,5390,93%
+Trichoderma-Gold,Trichoderma Harzianum,Rice,Nutrient Deficiency,43 kg,BASF Pakistan,Soil Conditioner,4510,85%
+Gibberellic-Eco,Gibberellic Acid,Maize,Blight,360 ml,BASF Pakistan,Herbicide,1252,91%
+Alpha-Cypermethrin-Supreme,Alpha-Cypermethrin,Vegetables,Nutrient Deficiency,183 ml,BASF Pakistan,Plant Growth Regulator,3868,71%
+Chlorpyrifos-Eco,Chlorpyrifos,Rice,Bollworms,20 kg,BASF Pakistan,Soil Conditioner,1537,89%
+Diammonium-Tech,Diammonium Phosphate (DAP),Oilseed,Nutrient Deficiency,35 kg,BASF Pakistan,Fertilizer,4234,95%
+Carbendazim-Gold,Carbendazim,Cotton,Stem Borer,11 kg,BASF Pakistan,Micronutrient,2227,99%
+Azoxystrobin-Pro,Azoxystrobin,Fruits,Downy Mildew,387 ml,BASF Pakistan,Herbicide,2070,94%
+Thiamethoxam-Eco,Thiamethoxam,Cotton,Bollworms,43 kg,BASF Pakistan,Soil Conditioner,5343,83%
+Carfentrazone-ethyl-Bio,Carfentrazone-ethyl,Sugarcane,Growth Regulation,251 ml,BASF Pakistan,Herbicide,1697,91%
+Trichoderma-Supreme,Trichoderma Harzianum,Sugarcane,Root Rot,356 ml,BASF Pakistan,Fungicide,1333,93%
+Gibberellic-Max,Gibberellic Acid,Oilseed,Planting,48 kg,BASF Pakistan,Soil Conditioner,5755,84%
+Mancozeb-Gold,Mancozeb,Wheat,Bollworms,41 kg,BASF Pakistan,Fertilizer,3923,98%
+Carbendazim-Bio,Carbendazim,Oilseed,Leaf Rust,341 ml,BASF Pakistan,Insecticide,3058,80%
+Urea-Pro,Urea,Maize,Soil Fertility Enhancement,156 ml,Syngenta Pakistan,Insecticide,3765,87%
+Urea-Bio,Urea,Oilseed,Blight,500 ml,Syngenta Pakistan,Insecticide,2823,76%
+Carbendazim-Gold,Carbendazim,Sugarcane,Growth Regulation,50 kg,Syngenta Pakistan,Soil Conditioner,4244,90%
+Tricyclazole-Eco,Tricyclazole,Fruits,Thrips,372 ml,Syngenta Pakistan,Insecticide,3841,97%
+Carfentrazone-ethyl-Max,Carfentrazone-ethyl,Sugarcane,Bollworms,36 kg,Syngenta Pakistan,Soil Conditioner,4340,84%
+Chlorpyrifos-Pro,Chlorpyrifos,Maize,Nutrient Deficiency,160 ml,Syngenta Pakistan,Herbicide,4038,79%
+Phosphorus-Advance,Phosphorus,Sugarcane,Stem Borer,118 ml,Syngenta Pakistan,Plant Growth Regulator,4801,71%
+Phosphorus-Supreme,Phosphorus,Vegetables,Planting,233 ml,Syngenta Pakistan,Herbicide,3427,84%
+Diammonium-Gold,Diammonium Phosphate (DAP),Legumes,Whitefly,155 ml,Syngenta Pakistan,Plant Growth Regulator,2336,76%
+Nitrogen-Ultra,Nitrogen,Fruits,Bollworms,34 kg,Syngenta Pakistan,Soil Conditioner,3645,84%
+Trichoderma-Ultra,Trichoderma Harzianum,Oilseed,Aphids,19 kg,Syngenta Pakistan,Micronutrient,4650,76%
+Trichoderma-Pro,Trichoderma Harzianum,Wheat,Downy Mildew,9 kg,Syngenta Pakistan,Micronutrient,5778,92%
+Diammonium-Ultra,Diammonium Phosphate (DAP),Oilseed,Thrips,284 ml,Syngenta Pakistan,Fungicide,1870,87%
+Phosphorus-Eco,Phosphorus,Cotton,Aphids,37 kg,Syngenta Pakistan,Soil Conditioner,4593,90%
+Carfentrazone-ethyl-Supreme,Carfentrazone-ethyl,Maize,Soil Fertility Enhancement,176 ml,Syngenta Pakistan,Herbicide,3539,99%
+Glyphosate-Bio,Glyphosate,Maize,Yellow Rust,472 ml,Syngenta Pakistan,Herbicide,1515,95%
+Carbendazim-Bio,Carbendazim,Sugarcane,Yellow Rust,17 kg,Syngenta Pakistan,Micronutrient,1968,83%
+Zinc-Eco,Zinc Sulfate,Wheat,Whitefly,12 kg,Syngenta Pakistan,Micronutrient,1772,85%
+Chlorpyrifos-Gold,Chlorpyrifos,Vegetables,Aphids,199 ml,Syngenta Pakistan,Insecticide,4014,94%
+Carbendazim-Advance,Carbendazim,Rice,Planting,10 kg,Syngenta Pakistan,Micronutrient,4957,83%
+Carbendazim-Pro,Carbendazim,Vegetables,Stem Borer,19 kg,Syngenta Pakistan,Seed,2093,89%
+Carbendazim-Advance,Carbendazim,Fruits,Yellow Rust,208 ml,Syngenta Pakistan,Insecticide,2377,92%
+Mancozeb-Bio,Mancozeb,Sugarcane,Soil pH Adjustment,464 ml,Syngenta Pakistan,Insecticide,2973,91%
+Gibberellic-Plus,Gibberellic Acid,Legumes,Soil pH Adjustment,118 ml,Syngenta Pakistan,Plant Growth Regulator,5801,84%
+Chlorpyrifos-Advance,Chlorpyrifos,Vegetables,Root Rot,12 kg,Syngenta Pakistan,Seed,4056,98%
+Diammonium-Eco,Diammonium Phosphate (DAP),Sugarcane,Downy Mildew,166 ml,Syngenta Pakistan,Fungicide,4189,80%
+Imidacloprid-Advance,Imidacloprid,Sugarcane,Root Rot,445 ml,Syngenta Pakistan,Insecticide,1774,92%
+Gibberellic-Gold,Gibberellic Acid,Oilseed,Soil pH Adjustment,81 ml,Syngenta Pakistan,Plant Growth Regulator,5275,99%
+Potassium-Supreme,Potassium,Rice,Stem Borer,20 kg,Syngenta Pakistan,Seed,4071,92%
+Mancozeb-Pro,Mancozeb,Rice,Downy Mildew,358 ml,Syngenta Pakistan,Insecticide,4809,92%
+Carfentrazone-ethyl-Bio,Carfentrazone-ethyl,Wheat,Downy Mildew,33 kg,Syngenta Pakistan,Soil Conditioner,4724,96%
+Nitrogen-Max,Nitrogen,Cotton,Thrips,46 kg,Syngenta Pakistan,Soil Conditioner,4674,96%
+Alpha-Cypermethrin-Tech,Alpha-Cypermethrin,Oilseed,Soil pH Adjustment,23 kg,Syngenta Pakistan,Fertilizer,7869,93%
+Urea-Ultra,Urea,Fruits,Growth Regulation,20 kg,Syngenta Pakistan,Fertilizer,3065,87%
+Glyphosate-Gold,Glyphosate,Sugarcane,Soil Fertility Enhancement,489 ml,Syngenta Pakistan,Insecticide,1125,74%
+Carbendazim-Pro,Carbendazim,Fruits,Soil Fertility Enhancement,19 kg,Syngenta Pakistan,Micronutrient,3465,75%
+Trichoderma-Ultra,Trichoderma Harzianum,Wheat,Soil pH Adjustment,17 kg,Syngenta Pakistan,Seed,2872,97%
+Alpha-Cypermethrin-Max,Alpha-Cypermethrin,Fruits,Leaf Rust,74 ml,Syngenta Pakistan,Plant Growth Regulator,4715,86%
+Tricyclazole-Gold,Tricyclazole,Sugarcane,Soil pH Adjustment,175 ml,Syngenta Pakistan,Plant Growth Regulator,2825,80%
+Nitrogen-Ultra,Nitrogen,Legumes,Yellow Rust,485 ml,Syngenta Pakistan,Fungicide,1514,80%
+Imidacloprid-Max,Imidacloprid,Oilseed,Thrips,8 kg,Syngenta Pakistan,Micronutrient,2628,78%
+Potassium-Bio,Potassium,Wheat,Downy Mildew,180 ml,Syngenta Pakistan,Fungicide,1855,88%
+Potassium-Eco,Potassium,Sugarcane,Growth Regulation,80 ml,Syngenta Pakistan,Plant Growth Regulator,2699,71%
+Chlorpyrifos-Bio,Chlorpyrifos,Wheat,Root Rot,352 ml,Syngenta Pakistan,Insecticide,2893,86%
+Glyphosate-Tech,Glyphosate,Oilseed,Root Rot,131 ml,Syngenta Pakistan,Plant Growth Regulator,5485,72%
+Pyrethroid-Pro,Pyrethroid,Fruits,Soil pH Adjustment,26 kg,Syngenta Pakistan,Soil Conditioner,5880,83%
+Carbendazim-Ultra,Carbendazim,Maize,Leaf Rust,490 ml,Syngenta Pakistan,Insecticide,2938,96%
+Imidacloprid-Max,Imidacloprid,Wheat,Thrips,12 kg,Syngenta Pakistan,Soil Conditioner,4160,80%
+Potassium-Gold,Potassium,Legumes,Blight,246 ml,Syngenta Pakistan,Fungicide,2675,89%
+Potassium-Ultra,Potassium,Legumes,Bollworms,29 kg,Syngenta Pakistan,Fertilizer,2956,87%
+Diammonium-Tech,Diammonium Phosphate (DAP),Cotton,Yellow Rust,44 kg,Syngenta Pakistan,Fertilizer,2818,83%
+Pyrethroid-Supreme,Pyrethroid,Legumes,Blight,6 kg,Syngenta Pakistan,Micronutrient,5484,96%
+Gibberellic-Tech,Gibberellic Acid,Maize,Soil pH Adjustment,25 kg,Syngenta Pakistan,Fertilizer,6916,89%
+Ethrel-Eco,Ethrel,Oilseed,Downy Mildew,357 ml,Syngenta Pakistan,Herbicide,4881,95%
+Thiamethoxam-Pro,Thiamethoxam,Oilseed,Bollworms,38 kg,Syngenta Pakistan,Soil Conditioner,2426,96%
+Diammonium-Max,Diammonium Phosphate (DAP),Rice,Soil pH Adjustment,491 ml,Syngenta Pakistan,Fungicide,3211,92%
+Mancozeb-Bio,Mancozeb,Maize,Leaf Rust,457 ml,Syngenta Pakistan,Fungicide,3984,85%
+Thiamethoxam-Supreme,Thiamethoxam,Legumes,Nutrient Deficiency,182 ml,Syngenta Pakistan,Herbicide,1717,78%
+Azoxystrobin-Tech,Azoxystrobin,Legumes,Thrips,265 ml,Syngenta Pakistan,Fungicide,4283,93%
+Phosphorus-Supreme,Phosphorus,Sugarcane,Stem Borer,403 ml,Syngenta Pakistan,Insecticide,4062,97%
+Imidacloprid-Pro,Imidacloprid,Oilseed,Whitefly,130 ml,Syngenta Pakistan,Plant Growth Regulator,1263,70%
+Glyphosate-Eco,Glyphosate,Legumes,Soil pH Adjustment,403 ml,Syngenta Pakistan,Herbicide,2620,89%
+Glyphosate-Supreme,Glyphosate,Oilseed,Soil Fertility Enhancement,346 ml,Syngenta Pakistan,Fungicide,2143,85%
+Glyphosate-Max,Glyphosate,Cotton,Whitefly,483 ml,Syngenta Pakistan,Fungicide,2972,86%
+Potassium-Advance,Potassium,Sugarcane,Soil pH Adjustment,47 kg,Syngenta Pakistan,Fertilizer,6010,83%
+Nitrogen-Pro,Nitrogen,Sugarcane,Nutrient Deficiency,428 ml,Syngenta Pakistan,Herbicide,3988,96%
+Carfentrazone-ethyl-Advance,Carfentrazone-ethyl,Cotton,Thrips,129 ml,Syngenta Pakistan,Plant Growth Regulator,4838,89%
+Thiamethoxam-Bio,Thiamethoxam,Maize,Leaf Rust,200 ml,Syngenta Pakistan,Insecticide,1963,82%
+Phosphorus-Ultra,Phosphorus,Vegetables,Soil pH Adjustment,49 kg,Syngenta Pakistan,Fertilizer,2199,86%
+Zinc-Gold,Zinc Sulfate,Cotton,Yellow Rust,16 kg,Syngenta Pakistan,Micronutrient,2134,79%
+Pyrethroid-Supreme,Pyrethroid,Fruits,Soil Fertility Enhancement,336 ml,Syngenta Pakistan,Herbicide,2939,86%
+Carfentrazone-ethyl-Supreme,Carfentrazone-ethyl,Legumes,Downy Mildew,187 ml,Syngenta Pakistan,Herbicide,2931,72%
+Pyrethroid-Max,Pyrethroid,Legumes,Aphids,18 kg,Syngenta Pakistan,Micronutrient,1343,78%
+Zinc-Max,Zinc Sulfate,Fruits,Whitefly,22 kg,Syngenta Pakistan,Soil Conditioner,5986,98%
+Ethrel-Tech,Ethrel,Legumes,Leaf Rust,24 kg,Syngenta Pakistan,Fertilizer,7060,89%
+Nitrogen-Ultra,Nitrogen,Maize,Growth Regulation,19 kg,Syngenta Pakistan,Soil Conditioner,4331,80%
+Mancozeb-Tech,Mancozeb,Maize,Downy Mildew,9 kg,Syngenta Pakistan,Micronutrient,1159,89%
+Trichoderma-Max,Trichoderma Harzianum,Legumes,Aphids,344 ml,Syngenta Pakistan,Fungicide,1976,72%
+Ethrel-Supreme,Ethrel,Oilseed,Blight,393 ml,Syngenta Pakistan,Herbicide,4172,78%
+Alpha-Cypermethrin-Advance,Alpha-Cypermethrin,Fruits,Nutrient Deficiency,159 ml,Syngenta Pakistan,Plant Growth Regulator,2421,82%
+Phosphorus-Max,Phosphorus,Rice,Stem Borer,162 ml,Syngenta Pakistan,Insecticide,4062,77%
+Azoxystrobin-Gold,Azoxystrobin,Rice,Nutrient Deficiency,368 ml,Syngenta Pakistan,Herbicide,1353,96%
+Thiamethoxam-Ultra,Thiamethoxam,Sugarcane,Leaf Rust,25 kg,Syngenta Pakistan,Fertilizer,7806,92%
+Alpha-Cypermethrin-Advance,Alpha-Cypermethrin,Rice,Bollworms,39 kg,Syngenta Pakistan,Soil Conditioner,4497,84%
+Imidacloprid-Gold,Imidacloprid,Oilseed,Yellow Rust,34 kg,Syngenta Pakistan,Fertilizer,6015,88%
+Carfentrazone-ethyl-Max,Carfentrazone-ethyl,Wheat,Soil Fertility Enhancement,58 ml,Syngenta Pakistan,Plant Growth Regulator,1802,84%
+Gibberellic-Advance,Gibberellic Acid,Vegetables,Downy Mildew,141 ml,Syngenta Pakistan,Plant Growth Regulator,2518,90%
+Phosphorus-Plus,Phosphorus,Rice,Aphids,13 kg,Syngenta Pakistan,Seed,4662,95%
+Nitrogen-Eco,Nitrogen,Wheat,Thrips,5 kg,Syngenta Pakistan,Micronutrient,5829,94%
+Carfentrazone-ethyl-Tech,Carfentrazone-ethyl,Wheat,Root Rot,11 kg,Syngenta Pakistan,Seed,5425,86%
+Azoxystrobin-Tech,Azoxystrobin,Wheat,Soil Fertility Enhancement,477 ml,Syngenta Pakistan,Herbicide,2249,97%
+Thiamethoxam-Gold,Thiamethoxam,Rice,Root Rot,39 kg,Syngenta Pakistan,Soil Conditioner,4942,87%
+Imidacloprid-Plus,Imidacloprid,Oilseed,Growth Regulation,32 kg,Syngenta Pakistan,Soil Conditioner,2501,99%
+Glyphosate-Supreme,Glyphosate,Sugarcane,Thrips,391 ml,Syngenta Pakistan,Insecticide,1359,70%
+Alpha-Cypermethrin-Pro,Alpha-Cypermethrin,Cotton,Whitefly,86 ml,Syngenta Pakistan,Plant Growth Regulator,2144,93%
+Zinc-Pro,Zinc Sulfate,Wheat,Root Rot,19 kg,Syngenta Pakistan,Seed,3596,96%
+Alpha-Cypermethrin-Plus,Alpha-Cypermethrin,Oilseed,Planting,220 ml,Syngenta Pakistan,Fungicide,4745,75%
+Ethrel-Supreme,Ethrel,Rice,Blight,221 ml,Syngenta Pakistan,Herbicide,4843,73%
+Mancozeb-Advance,Mancozeb,Maize,Soil Fertility Enhancement,42 kg,Syngenta Pakistan,Fertilizer,3086,84%
+Nitrogen-Plus,Nitrogen,Vegetables,Stem Borer,18 kg,Syngenta Pakistan,Micronutrient,5202,97%
+Nitrogen-Plus,Nitrogen,Oilseed,Planting,451 ml,Bayer Crop Science,Insecticide,3680,72%
+Alpha-Cypermethrin-Bio,Alpha-Cypermethrin,Cotton,Planting,171 ml,Bayer Crop Science,Fungicide,3265,95%
+Thiamethoxam-Advance,Thiamethoxam,Oilseed,Nutrient Deficiency,21 kg,Bayer Crop Science,Fertilizer,4006,81%
+Urea-Advance,Urea,Cotton,Downy Mildew,20 kg,Bayer Crop Science,Seed,4790,91%
+Tricyclazole-Bio,Tricyclazole,Sugarcane,Blight,35 kg,Bayer Crop Science,Soil Conditioner,3922,88%
+Pyrethroid-Supreme,Pyrethroid,Fruits,Nutrient Deficiency,408 ml,Bayer Crop Science,Fungicide,1770,74%
+Thiamethoxam-Ultra,Thiamethoxam,Sugarcane,Downy Mildew,50 kg,Bayer Crop Science,Soil Conditioner,2342,88%
+Carfentrazone-ethyl-Max,Carfentrazone-ethyl,Maize,Blight,389 ml,Bayer Crop Science,Fungicide,1531,87%
+Carfentrazone-ethyl-Gold,Carfentrazone-ethyl,Oilseed,Soil Fertility Enhancement,12 kg,Bayer Crop Science,Micronutrient,5473,93%
+Glyphosate-Advance,Glyphosate,Rice,Thrips,13 kg,Bayer Crop Science,Seed,4485,90%
+Alpha-Cypermethrin-Ultra,Alpha-Cypermethrin,Wheat,Growth Regulation,159 ml,Bayer Crop Science,Fungicide,1691,79%
+Chlorpyrifos-Supreme,Chlorpyrifos,Legumes,Root Rot,22 kg,Bayer Crop Science,Fertilizer,5240,90%
+Pyrethroid-Advance,Pyrethroid,Oilseed,Stem Borer,13 kg,Bayer Crop Science,Soil Conditioner,4839,91%
+Pyrethroid-Advance,Pyrethroid,Sugarcane,Growth Regulation,166 ml,Bayer Crop Science,Plant Growth Regulator,4376,73%
+Glyphosate-Tech,Glyphosate,Cotton,Blight,204 ml,Bayer Crop Science,Herbicide,2271,77%
+Zinc-Max,Zinc Sulfate,Sugarcane,Nutrient Deficiency,194 ml,Bayer Crop Science,Plant Growth Regulator,2315,72%
+Phosphorus-Pro,Phosphorus,Sugarcane,Root Rot,359 ml,Bayer Crop Science,Herbicide,4389,77%
+Zinc-Tech,Zinc Sulfate,Fruits,Stem Borer,424 ml,Bayer Crop Science,Fungicide,2898,86%
+Chlorpyrifos-Eco,Chlorpyrifos,Oilseed,Soil pH Adjustment,262 ml,Bayer Crop Science,Insecticide,1008,99%
+Trichoderma-Max,Trichoderma Harzianum,Vegetables,Aphids,16 kg,Bayer Crop Science,Seed,6569,97%
+Trichoderma-Pro,Trichoderma Harzianum,Legumes,Downy Mildew,193 ml,Bayer Crop Science,Herbicide,4903,77%
+Azoxystrobin-Bio,Azoxystrobin,Maize,Downy Mildew,10 kg,Bayer Crop Science,Seed,1648,96%
+Diammonium-Pro,Diammonium Phosphate (DAP),Vegetables,Nutrient Deficiency,24 kg,Bayer Crop Science,Fertilizer,7537,83%
+Diammonium-Eco,Diammonium Phosphate (DAP),Wheat,Stem Borer,15 kg,Bayer Crop Science,Micronutrient,4229,88%
+Trichoderma-Eco,Trichoderma Harzianum,Vegetables,Growth Regulation,382 ml,Bayer Crop Science,Herbicide,2705,82%
+Zinc-Advance,Zinc Sulfate,Sugarcane,Blight,16 kg,Bayer Crop Science,Soil Conditioner,2762,81%
+Ethrel-Advance,Ethrel,Cotton,Downy Mildew,257 ml,Bayer Crop Science,Herbicide,4515,97%
+Phosphorus-Plus,Phosphorus,Cotton,Bollworms,10 kg,Bayer Crop Science,Seed,1943,96%
+Thiamethoxam-Gold,Thiamethoxam,Vegetables,Nutrient Deficiency,184 ml,Bayer Crop Science,Plant Growth Regulator,1471,92%
+Trichoderma-Ultra,Trichoderma Harzianum,Rice,Nutrient Deficiency,41 kg,Bayer Crop Science,Fertilizer,3149,91%
+Alpha-Cypermethrin-Advance,Alpha-Cypermethrin,Fruits,Soil pH Adjustment,19 kg,Bayer Crop Science,Micronutrient,4078,95%
+Imidacloprid-Supreme,Imidacloprid,Fruits,Soil pH Adjustment,15 kg,Bayer Crop Science,Micronutrient,5486,77%
+Imidacloprid-Advance,Imidacloprid,Fruits,Whitefly,6 kg,Bayer Crop Science,Micronutrient,5405,87%
+Mancozeb-Tech,Mancozeb,Legumes,Soil Fertility Enhancement,13 kg,Bayer Crop Science,Soil Conditioner,3508,87%
+Diammonium-Supreme,Diammonium Phosphate (DAP),Vegetables,Leaf Rust,34 kg,Bayer Crop Science,Fertilizer,6389,83%
+Nitrogen-Gold,Nitrogen,Cotton,Aphids,139 ml,Bayer Crop Science,Fungicide,1473,91%
+Potassium-Supreme,Potassium,Cotton,Stem Borer,7 kg,Bayer Crop Science,Micronutrient,3926,79%
+Tricyclazole-Advance,Tricyclazole,Vegetables,Planting,455 ml,Bayer Crop Science,Fungicide,1983,89%
+Alpha-Cypermethrin-Advance,Alpha-Cypermethrin,Wheat,Bollworms,166 ml,Bayer Crop Science,Plant Growth Regulator,4973,73%
+Phosphorus-Ultra,Phosphorus,Legumes,Soil pH Adjustment,116 ml,Bayer Crop Science,Plant Growth Regulator,3629,95%
+Gibberellic-Max,Gibberellic Acid,Maize,Whitefly,11 kg,Bayer Crop Science,Soil Conditioner,3682,96%
+Carbendazim-Supreme,Carbendazim,Oilseed,Stem Borer,299 ml,Bayer Crop Science,Insecticide,4658,74%
+Azoxystrobin-Ultra,Azoxystrobin,Rice,Stem Borer,17 kg,Bayer Crop Science,Micronutrient,1611,96%
+Nitrogen-Pro,Nitrogen,Rice,Stem Borer,12 kg,Bayer Crop Science,Seed,6441,95%
+Tricyclazole-Advance,Tricyclazole,Cotton,Bollworms,18 kg,Bayer Crop Science,Seed,5811,87%
+Glyphosate-Tech,Glyphosate,Sugarcane,Yellow Rust,446 ml,Bayer Crop Science,Herbicide,4440,95%
+Gibberellic-Max,Gibberellic Acid,Sugarcane,Aphids,31 kg,Bayer Crop Science,Fertilizer,3991,85%
+Thiamethoxam-Pro,Thiamethoxam,Sugarcane,Bollworms,20 kg,Bayer Crop Science,Soil Conditioner,5897,91%
+Chlorpyrifos-Supreme,Chlorpyrifos,Sugarcane,Blight,44 kg,Bayer Crop Science,Fertilizer,7423,98%
+Tricyclazole-Eco,Tricyclazole,Vegetables,Soil Fertility Enhancement,36 kg,Bayer Crop Science,Fertilizer,6532,95%
+Ethrel-Advance,Ethrel,Legumes,Downy Mildew,11 kg,Bayer Crop Science,Seed,4599,86%
+Alpha-Cypermethrin-Eco,Alpha-Cypermethrin,Cotton,Leaf Rust,57 ml,Bayer Crop Science,Plant Growth Regulator,3121,97%
+Glyphosate-Tech,Glyphosate,Legumes,Blight,18 kg,Bayer Crop Science,Micronutrient,5978,86%
+Zinc-Gold,Zinc Sulfate,Cotton,Whitefly,128 ml,Bayer Crop Science,Plant Growth Regulator,5739,92%
+Trichoderma-Advance,Trichoderma Harzianum,Rice,Soil Fertility Enhancement,289 ml,Bayer Crop Science,Fungicide,3036,73%
+Ethrel-Bio,Ethrel,Vegetables,Bollworms,34 kg,Bayer Crop Science,Soil Conditioner,4217,85%
+Diammonium-Supreme,Diammonium Phosphate (DAP),Wheat,Thrips,189 ml,Bayer Crop Science,Plant Growth Regulator,1708,81%
+Mancozeb-Supreme,Mancozeb,Legumes,Soil Fertility Enhancement,19 kg,Bayer Crop Science,Seed,2440,99%
+Thiamethoxam-Eco,Thiamethoxam,Oilseed,Bollworms,228 ml,Bayer Crop Science,Fungicide,3334,82%
+Carbendazim-Bio,Carbendazim,Wheat,Stem Borer,20 kg,Bayer Crop Science,Micronutrient,2329,98%
+Gibberellic-Advance,Gibberellic Acid,Legumes,Soil Fertility Enhancement,491 ml,Bayer Crop Science,Insecticide,3589,99%
+Phosphorus-Gold,Phosphorus,Cotton,Bollworms,362 ml,Bayer Crop Science,Insecticide,4587,91%
+Tricyclazole-Ultra,Tricyclazole,Rice,Blight,237 ml,Bayer Crop Science,Insecticide,1062,73%
+Nitrogen-Max,Nitrogen,Cotton,Yellow Rust,345 ml,Bayer Crop Science,Fungicide,1083,93%
+Carbendazim-Supreme,Carbendazim,Vegetables,Soil pH Adjustment,227 ml,Bayer Crop Science,Fungicide,3679,99%
+Tricyclazole-Ultra,Tricyclazole,Vegetables,Root Rot,20 kg,Bayer Crop Science,Seed,1590,87%
+Tricyclazole-Bio,Tricyclazole,Sugarcane,Stem Borer,142 ml,Bayer Crop Science,Plant Growth Regulator,1427,95%
+Imidacloprid-Pro,Imidacloprid,Cotton,Aphids,16 kg,Bayer Crop Science,Soil Conditioner,5314,91%
+Potassium-Eco,Potassium,Rice,Aphids,133 ml,Bayer Crop Science,Plant Growth Regulator,5971,86%
+Azoxystrobin-Ultra,Azoxystrobin,Cotton,Whitefly,465 ml,Bayer Crop Science,Insecticide,4601,75%
+Nitrogen-Plus,Nitrogen,Oilseed,Planting,110 ml,Bayer Crop Science,Plant Growth Regulator,4660,76%
+Nitrogen-Advance,Nitrogen,Cotton,Aphids,477 ml,Bayer Crop Science,Herbicide,1959,80%
+Gibberellic-Gold,Gibberellic Acid,Wheat,Soil Fertility Enhancement,310 ml,Bayer Crop Science,Herbicide,3546,76%
+Imidacloprid-Supreme,Imidacloprid,Maize,Whitefly,33 kg,Bayer Crop Science,Soil Conditioner,2210,84%
+Mancozeb-Max,Mancozeb,Cotton,Nutrient Deficiency,15 kg,Bayer Crop Science,Micronutrient,5137,92%
+Tricyclazole-Gold,Tricyclazole,Oilseed,Stem Borer,16 kg,Bayer Crop Science,Seed,2815,89%
+Carbendazim-Supreme,Carbendazim,Rice,Soil pH Adjustment,437 ml,Bayer Crop Science,Herbicide,3062,82%
+Pyrethroid-Gold,Pyrethroid,Rice,Root Rot,17 kg,Bayer Crop Science,Micronutrient,2530,84%
+Potassium-Gold,Potassium,Vegetables,Thrips,33 kg,Bayer Crop Science,Fertilizer,7181,92%
+Imidacloprid-Advance,Imidacloprid,Fruits,Yellow Rust,20 kg,Bayer Crop Science,Soil Conditioner,2096,89%
+Azoxystrobin-Max,Azoxystrobin,Legumes,Downy Mildew,107 ml,Bayer Crop Science,Fungicide,4558,92%
+Carbendazim-Supreme,Carbendazim,Vegetables,Whitefly,372 ml,Bayer Crop Science,Herbicide,3675,93%
+Azoxystrobin-Plus,Azoxystrobin,Vegetables,Soil Fertility Enhancement,13 kg,Bayer Crop Science,Seed,3097,94%
+Urea-Eco,Urea,Wheat,Planting,149 ml,Bayer Crop Science,Fungicide,4065,79%
+Urea-Plus,Urea,Wheat,Downy Mildew,10 kg,Bayer Crop Science,Soil Conditioner,1742,87%
+Tricyclazole-Tech,Tricyclazole,Sugarcane,Root Rot,38 kg,Bayer Crop Science,Fertilizer,7974,90%
+Ethrel-Bio,Ethrel,Maize,Leaf Rust,36 kg,Bayer Crop Science,Fertilizer,5712,88%
+Tricyclazole-Ultra,Tricyclazole,Maize,Soil Fertility Enhancement,37 kg,Bayer Crop Science,Soil Conditioner,5136,91%
+Trichoderma-Eco,Trichoderma Harzianum,Vegetables,Soil pH Adjustment,26 kg,Bayer Crop Science,Fertilizer,5112,87%
+Glyphosate-Ultra,Glyphosate,Sugarcane,Bollworms,223 ml,Bayer Crop Science,Fungicide,3710,91%
+Phosphorus-Gold,Phosphorus,Legumes,Thrips,15 kg,Bayer Crop Science,Seed,2948,99%
+Glyphosate-Max,Glyphosate,Wheat,Root Rot,20 kg,Bayer Crop Science,Soil Conditioner,5683,90%
+Thiamethoxam-Ultra,Thiamethoxam,Cotton,Thrips,11 kg,Bayer Crop Science,Seed,5355,95%
+Diammonium-Tech,Diammonium Phosphate (DAP),Oilseed,Blight,47 kg,Bayer Crop Science,Fertilizer,7828,89%
+Glyphosate-Max,Glyphosate,Vegetables,Growth Regulation,26 kg,Bayer Crop Science,Soil Conditioner,2133,86%
+Carbendazim-Max,Carbendazim,Sugarcane,Whitefly,34 kg,Bayer Crop Science,Fertilizer,7609,95%
+Trichoderma-Gold,Trichoderma Harzianum,Cotton,Leaf Rust,8 kg,Bayer Crop Science,Micronutrient,5320,75%
+Pyrethroid-Advance,Pyrethroid,Oilseed,Whitefly,296 ml,Bayer Crop Science,Fungicide,3997,80%
+Imidacloprid-Plus,Imidacloprid,Cotton,Downy Mildew,10 kg,Bayer Crop Science,Micronutrient,3003,77%
+Chlorpyrifos-Ultra,Chlorpyrifos,Legumes,Growth Regulation,20 kg,Bayer Crop Science,Fertilizer,2906,87%
+Carfentrazone-ethyl-Gold,Carfentrazone-ethyl,Sugarcane,Bollworms,436 ml,Fatima Fertilizer,Herbicide,4322,80%
+Carbendazim-Bio,Carbendazim,Fruits,Soil Fertility Enhancement,15 kg,Fatima Fertilizer,Seed,5527,98%
+Imidacloprid-Gold,Imidacloprid,Wheat,Soil pH Adjustment,150 ml,Fatima Fertilizer,Plant Growth Regulator,4995,91%
+Phosphorus-Ultra,Phosphorus,Sugarcane,Soil Fertility Enhancement,30 kg,Fatima Fertilizer,Soil Conditioner,1890,91%
+Urea-Gold,Urea,Wheat,Growth Regulation,48 kg,Fatima Fertilizer,Soil Conditioner,2513,92%
+Ethrel-Tech,Ethrel,Oilseed,Blight,6 kg,Fatima Fertilizer,Micronutrient,3385,92%
+Ethrel-Advance,Ethrel,Oilseed,Growth Regulation,100 ml,Fatima Fertilizer,Plant Growth Regulator,5643,99%
+Carbendazim-Eco,Carbendazim,Wheat,Growth Regulation,298 ml,Fatima Fertilizer,Fungicide,1093,84%
+Mancozeb-Tech,Mancozeb,Vegetables,Growth Regulation,49 kg,Fatima Fertilizer,Soil Conditioner,5501,96%
+Ethrel-Ultra,Ethrel,Cotton,Blight,129 ml,Fatima Fertilizer,Insecticide,3194,94%
+Imidacloprid-Max,Imidacloprid,Wheat,Thrips,33 kg,Fatima Fertilizer,Fertilizer,5418,93%
+Glyphosate-Pro,Glyphosate,Cotton,Soil pH Adjustment,19 kg,Fatima Fertilizer,Seed,2702,90%
+Carbendazim-Plus,Carbendazim,Rice,Downy Mildew,49 kg,Fatima Fertilizer,Soil Conditioner,2465,93%
+Gibberellic-Eco,Gibberellic Acid,Rice,Growth Regulation,283 ml,Fatima Fertilizer,Insecticide,1409,98%
+Urea-Gold,Urea,Oilseed,Stem Borer,371 ml,Fatima Fertilizer,Fungicide,2182,71%
+Urea-Gold,Urea,Maize,Soil pH Adjustment,332 ml,Fatima Fertilizer,Insecticide,1198,85%
+Carbendazim-Ultra,Carbendazim,Cotton,Root Rot,50 kg,Fatima Fertilizer,Fertilizer,3299,97%
+Glyphosate-Plus,Glyphosate,Maize,Root Rot,100 ml,Fatima Fertilizer,Plant Growth Regulator,5892,90%
+Pyrethroid-Tech,Pyrethroid,Sugarcane,Bollworms,6 kg,Fatima Fertilizer,Micronutrient,2601,83%
+Potassium-Max,Potassium,Cotton,Nutrient Deficiency,446 ml,Fatima Fertilizer,Fungicide,4560,80%
+Trichoderma-Pro,Trichoderma Harzianum,Rice,Aphids,113 ml,Fatima Fertilizer,Fungicide,4080,86%
+Gibberellic-Pro,Gibberellic Acid,Cotton,Leaf Rust,366 ml,Fatima Fertilizer,Herbicide,3970,97%
+Diammonium-Ultra,Diammonium Phosphate (DAP),Wheat,Root Rot,253 ml,Fatima Fertilizer,Insecticide,4324,75%
+Zinc-Advance,Zinc Sulfate,Sugarcane,Growth Regulation,144 ml,Fatima Fertilizer,Plant Growth Regulator,5407,96%
+Thiamethoxam-Eco,Thiamethoxam,Rice,Thrips,20 kg,Fatima Fertilizer,Seed,5653,94%
+Glyphosate-Ultra,Glyphosate,Legumes,Aphids,486 ml,Fatima Fertilizer,Herbicide,2780,77%
+Carfentrazone-ethyl-Pro,Carfentrazone-ethyl,Oilseed,Aphids,320 ml,Fatima Fertilizer,Fungicide,3744,97%
+Zinc-Plus,Zinc Sulfate,Sugarcane,Planting,308 ml,Fatima Fertilizer,Fungicide,1620,80%
+Tricyclazole-Pro,Tricyclazole,Vegetables,Blight,208 ml,Fatima Fertilizer,Insecticide,1201,83%
+Carbendazim-Gold,Carbendazim,Maize,Planting,20 kg,Fatima Fertilizer,Soil Conditioner,2084,96%
+Gibberellic-Pro,Gibberellic Acid,Vegetables,Soil Fertility Enhancement,14 kg,Fatima Fertilizer,Soil Conditioner,5706,98%
+Zinc-Supreme,Zinc Sulfate,Legumes,Yellow Rust,133 ml,Fatima Fertilizer,Plant Growth Regulator,5180,96%
+Thiamethoxam-Max,Thiamethoxam,Oilseed,Whitefly,22 kg,Fatima Fertilizer,Soil Conditioner,2085,85%
+Potassium-Pro,Potassium,Wheat,Stem Borer,475 ml,Fatima Fertilizer,Fungicide,4066,89%
+Carbendazim-Pro,Carbendazim,Cotton,Yellow Rust,11 kg,Fatima Fertilizer,Micronutrient,1380,78%
+Trichoderma-Max,Trichoderma Harzianum,Legumes,Nutrient Deficiency,200 ml,Fatima Fertilizer,Insecticide,1004,95%
+Urea-Pro,Urea,Rice,Downy Mildew,417 ml,Fatima Fertilizer,Fungicide,2455,95%
+Ethrel-Bio,Ethrel,Cotton,Aphids,446 ml,Fatima Fertilizer,Insecticide,1310,82%
+Thiamethoxam-Tech,Thiamethoxam,Rice,Growth Regulation,406 ml,Fatima Fertilizer,Insecticide,1224,99%
+Glyphosate-Bio,Glyphosate,Oilseed,Nutrient Deficiency,299 ml,Fatima Fertilizer,Fungicide,4594,95%
+Pyrethroid-Tech,Pyrethroid,Legumes,Whitefly,85 ml,Fatima Fertilizer,Plant Growth Regulator,3522,88%
+Phosphorus-Ultra,Phosphorus,Wheat,Soil pH Adjustment,23 kg,Fatima Fertilizer,Fertilizer,3576,86%
+Ethrel-Supreme,Ethrel,Rice,Downy Mildew,43 kg,Fatima Fertilizer,Soil Conditioner,5175,93%
+Tricyclazole-Ultra,Tricyclazole,Wheat,Downy Mildew,19 kg,Fatima Fertilizer,Micronutrient,4192,83%
+Imidacloprid-Bio,Imidacloprid,Maize,Bollworms,12 kg,Fatima Fertilizer,Soil Conditioner,2214,82%
+Glyphosate-Pro,Glyphosate,Oilseed,Soil pH Adjustment,14 kg,Fatima Fertilizer,Seed,3516,92%
+Zinc-Eco,Zinc Sulfate,Wheat,Thrips,35 kg,Fatima Fertilizer,Fertilizer,7019,96%
+Diammonium-Pro,Diammonium Phosphate (DAP),Vegetables,Nutrient Deficiency,491 ml,Fatima Fertilizer,Fungicide,2548,88%
+Urea-Gold,Urea,Cotton,Growth Regulation,329 ml,Fatima Fertilizer,Fungicide,1220,97%
+Carfentrazone-ethyl-Gold,Carfentrazone-ethyl,Cotton,Root Rot,126 ml,Fatima Fertilizer,Fungicide,4931,85%
+Thiamethoxam-Pro,Thiamethoxam,Rice,Nutrient Deficiency,392 ml,Fatima Fertilizer,Insecticide,3582,99%
+Urea-Gold,Urea,Maize,Blight,190 ml,Fatima Fertilizer,Plant Growth Regulator,1494,90%
+Alpha-Cypermethrin-Advance,Alpha-Cypermethrin,Fruits,Whitefly,36 kg,Fatima Fertilizer,Fertilizer,7919,80%
+Glyphosate-Tech,Glyphosate,Vegetables,Blight,163 ml,Fatima Fertilizer,Plant Growth Regulator,3526,72%
+Glyphosate-Tech,Glyphosate,Sugarcane,Thrips,48 kg,Fatima Fertilizer,Fertilizer,6126,83%
+Urea-Max,Urea,Wheat,Nutrient Deficiency,368 ml,Fatima Fertilizer,Insecticide,2239,85%
+Carfentrazone-ethyl-Pro,Carfentrazone-ethyl,Rice,Root Rot,126 ml,Fatima Fertilizer,Plant Growth Regulator,3582,81%
+Alpha-Cypermethrin-Gold,Alpha-Cypermethrin,Sugarcane,Root Rot,14 kg,Fatima Fertilizer,Micronutrient,1310,95%
+Mancozeb-Gold,Mancozeb,Sugarcane,Thrips,263 ml,Fatima Fertilizer,Herbicide,2747,76%
+Mancozeb-Tech,Mancozeb,Oilseed,Yellow Rust,10 kg,Fatima Fertilizer,Micronutrient,5043,82%
+Nitrogen-Advance,Nitrogen,Fruits,Bollworms,40 kg,Fatima Fertilizer,Fertilizer,6157,95%
+Trichoderma-Plus,Trichoderma Harzianum,Sugarcane,Blight,198 ml,Fatima Fertilizer,Herbicide,1714,77%
+Carfentrazone-ethyl-Gold,Carfentrazone-ethyl,Rice,Root Rot,417 ml,Fatima Fertilizer,Herbicide,2085,86%
+Alpha-Cypermethrin-Plus,Alpha-Cypermethrin,Maize,Planting,13 kg,Fatima Fertilizer,Seed,4336,86%
+Azoxystrobin-Bio,Azoxystrobin,Legumes,Nutrient Deficiency,43 kg,Fatima Fertilizer,Soil Conditioner,3144,85%
+Urea-Max,Urea,Cotton,Stem Borer,317 ml,Fatima Fertilizer,Insecticide,1344,74%
+Nitrogen-Max,Nitrogen,Fruits,Blight,312 ml,Fatima Fertilizer,Insecticide,1371,83%
+Carfentrazone-ethyl-Pro,Carfentrazone-ethyl,Fruits,Soil Fertility Enhancement,361 ml,Fatima Fertilizer,Herbicide,3706,97%
+Azoxystrobin-Advance,Azoxystrobin,Maize,Stem Borer,383 ml,Fatima Fertilizer,Herbicide,1900,72%
+Carbendazim-Advance,Carbendazim,Cotton,Whitefly,150 ml,Fatima Fertilizer,Plant Growth Regulator,3094,89%
+Trichoderma-Tech,Trichoderma Harzianum,Oilseed,Planting,20 kg,Fatima Fertilizer,Seed,3219,88%
+Gibberellic-Ultra,Gibberellic Acid,Wheat,Whitefly,13 kg,Fatima Fertilizer,Micronutrient,3927,81%
+Ethrel-Plus,Ethrel,Sugarcane,Blight,342 ml,Fatima Fertilizer,Herbicide,3585,75%
+Thiamethoxam-Gold,Thiamethoxam,Vegetables,Yellow Rust,20 kg,Fatima Fertilizer,Seed,2848,95%
+Carfentrazone-ethyl-Ultra,Carfentrazone-ethyl,Maize,Soil pH Adjustment,78 ml,Fatima Fertilizer,Plant Growth Regulator,5958,88%
+Potassium-Ultra,Potassium,Cotton,Planting,25 kg,Fatima Fertilizer,Soil Conditioner,3679,88%
+Glyphosate-Ultra,Glyphosate,Wheat,Aphids,459 ml,Fatima Fertilizer,Insecticide,3688,97%
+Azoxystrobin-Tech,Azoxystrobin,Wheat,Soil pH Adjustment,106 ml,Fatima Fertilizer,Plant Growth Regulator,4402,99%
+Gibberellic-Max,Gibberellic Acid,Sugarcane,Nutrient Deficiency,432 ml,Fatima Fertilizer,Fungicide,4415,84%
+Zinc-Advance,Zinc Sulfate,Cotton,Nutrient Deficiency,394 ml,Fatima Fertilizer,Insecticide,3223,87%
+Thiamethoxam-Supreme,Thiamethoxam,Oilseed,Thrips,243 ml,Fatima Fertilizer,Insecticide,2674,88%
+Diammonium-Eco,Diammonium Phosphate (DAP),Oilseed,Planting,200 ml,Fatima Fertilizer,Plant Growth Regulator,3255,71%
+Gibberellic-Max,Gibberellic Acid,Vegetables,Leaf Rust,13 kg,Fatima Fertilizer,Seed,5927,94%
+Urea-Advance,Urea,Wheat,Planting,17 kg,Fatima Fertilizer,Seed,5347,93%
+Mancozeb-Advance,Mancozeb,Maize,Bollworms,27 kg,Fatima Fertilizer,Soil Conditioner,3323,92%
+Phosphorus-Ultra,Phosphorus,Vegetables,Aphids,189 ml,Fatima Fertilizer,Plant Growth Regulator,5657,83%
+Carfentrazone-ethyl-Eco,Carfentrazone-ethyl,Legumes,Whitefly,308 ml,Fatima Fertilizer,Insecticide,4904,96%
+Azoxystrobin-Gold,Azoxystrobin,Maize,Bollworms,104 ml,Fatima Fertilizer,Plant Growth Regulator,3022,81%
+Tricyclazole-Plus,Tricyclazole,Fruits,Yellow Rust,174 ml,Fatima Fertilizer,Insecticide,4979,91%
+Glyphosate-Pro,Glyphosate,Maize,Downy Mildew,14 kg,Fatima Fertilizer,Micronutrient,3934,77%
+Phosphorus-Tech,Phosphorus,Maize,Leaf Rust,47 kg,Fatima Fertilizer,Fertilizer,2824,82%
+Trichoderma-Gold,Trichoderma Harzianum,Rice,Downy Mildew,101 ml,Fatima Fertilizer,Plant Growth Regulator,2911,97%
+Alpha-Cypermethrin-Max,Alpha-Cypermethrin,Oilseed,Thrips,154 ml,Fatima Fertilizer,Herbicide,2328,82%
+Urea-Pro,Urea,Cotton,Aphids,127 ml,Fatima Fertilizer,Herbicide,3869,82%
+Azoxystrobin-Bio,Azoxystrobin,Wheat,Bollworms,19 kg,Fatima Fertilizer,Seed,2354,99%
+Phosphorus-Max,Phosphorus,Wheat,Nutrient Deficiency,420 ml,Fatima Fertilizer,Fungicide,4494,76%
+Nitrogen-Gold,Nitrogen,Rice,Blight,36 kg,Fatima Fertilizer,Soil Conditioner,1545,91%
+Tricyclazole-Plus,Tricyclazole,Legumes,Thrips,13 kg,Fatima Fertilizer,Soil Conditioner,3184,86%
+Diammonium-Gold,Diammonium Phosphate (DAP),Wheat,Growth Regulation,45 kg,Fatima Fertilizer,Fertilizer,2989,89%
+Pyrethroid-Advance,Pyrethroid,Rice,Bollworms,66 ml,Fatima Fertilizer,Plant Growth Regulator,4465,89%
+Carfentrazone-ethyl-Gold,Carfentrazone-ethyl,Vegetables,Stem Borer,38 kg,Engro Fertilizers,Fertilizer,3886,93%
+Ethrel-Max,Ethrel,Rice,Soil Fertility Enhancement,23 kg,Engro Fertilizers,Soil Conditioner,3293,92%
+Pyrethroid-Plus,Pyrethroid,Sugarcane,Blight,9 kg,Engro Fertilizers,Micronutrient,5288,87%
+Pyrethroid-Supreme,Pyrethroid,Legumes,Yellow Rust,20 kg,Engro Fertilizers,Seed,5179,85%
+Thiamethoxam-Pro,Thiamethoxam,Cotton,Root Rot,175 ml,Engro Fertilizers,Plant Growth Regulator,3909,77%
+Pyrethroid-Tech,Pyrethroid,Fruits,Soil pH Adjustment,24 kg,Engro Fertilizers,Fertilizer,3491,99%
+Urea-Tech,Urea,Rice,Bollworms,158 ml,Engro Fertilizers,Fungicide,2605,84%
+Potassium-Supreme,Potassium,Oilseed,Leaf Rust,10 kg,Engro Fertilizers,Seed,5528,90%
+Nitrogen-Plus,Nitrogen,Vegetables,Whitefly,10 kg,Engro Fertilizers,Seed,2307,96%
+Gibberellic-Gold,Gibberellic Acid,Cotton,Growth Regulation,12 kg,Engro Fertilizers,Seed,2318,86%
+Thiamethoxam-Max,Thiamethoxam,Sugarcane,Soil Fertility Enhancement,44 kg,Engro Fertilizers,Fertilizer,7545,84%
+Trichoderma-Pro,Trichoderma Harzianum,Legumes,Growth Regulation,11 kg,Engro Fertilizers,Soil Conditioner,3251,99%
+Mancozeb-Ultra,Mancozeb,Fruits,Blight,296 ml,Engro Fertilizers,Herbicide,2121,73%
+Alpha-Cypermethrin-Ultra,Alpha-Cypermethrin,Maize,Planting,100 ml,Engro Fertilizers,Plant Growth Regulator,1206,93%
+Carbendazim-Bio,Carbendazim,Wheat,Stem Borer,443 ml,Engro Fertilizers,Fungicide,3016,99%
+Carbendazim-Ultra,Carbendazim,Sugarcane,Soil pH Adjustment,14 kg,Engro Fertilizers,Seed,6819,97%
+Urea-Gold,Urea,Wheat,Bollworms,20 kg,Engro Fertilizers,Micronutrient,5220,88%
+Ethrel-Tech,Ethrel,Sugarcane,Growth Regulation,14 kg,Engro Fertilizers,Micronutrient,3234,99%
+Trichoderma-Gold,Trichoderma Harzianum,Legumes,Bollworms,140 ml,Engro Fertilizers,Fungicide,4601,87%
+Potassium-Supreme,Potassium,Rice,Yellow Rust,181 ml,Engro Fertilizers,Plant Growth Regulator,2982,95%
+Mancozeb-Bio,Mancozeb,Rice,Blight,13 kg,Engro Fertilizers,Seed,5513,92%
+Urea-Advance,Urea,Oilseed,Growth Regulation,324 ml,Engro Fertilizers,Herbicide,4026,76%
+Trichoderma-Advance,Trichoderma Harzianum,Cotton,Root Rot,19 kg,Engro Fertilizers,Soil Conditioner,5176,86%
+Thiamethoxam-Gold,Thiamethoxam,Vegetables,Yellow Rust,17 kg,Engro Fertilizers,Micronutrient,4847,76%
+Azoxystrobin-Eco,Azoxystrobin,Vegetables,Planting,378 ml,Engro Fertilizers,Insecticide,4323,74%
+Glyphosate-Ultra,Glyphosate,Wheat,Leaf Rust,221 ml,Engro Fertilizers,Herbicide,3722,80%
+Urea-Ultra,Urea,Maize,Growth Regulation,16 kg,Engro Fertilizers,Seed,3969,98%
+Urea-Advance,Urea,Legumes,Downy Mildew,445 ml,Engro Fertilizers,Insecticide,3926,70%
+Imidacloprid-Advance,Imidacloprid,Maize,Planting,36 kg,Engro Fertilizers,Soil Conditioner,5992,92%
+Chlorpyrifos-Max,Chlorpyrifos,Maize,Soil Fertility Enhancement,6 kg,Engro Fertilizers,Micronutrient,4170,99%
+Chlorpyrifos-Max,Chlorpyrifos,Fruits,Planting,21 kg,Engro Fertilizers,Soil Conditioner,5813,95%
+Azoxystrobin-Supreme,Azoxystrobin,Sugarcane,Stem Borer,145 ml,Engro Fertilizers,Plant Growth Regulator,4159,90%
+Chlorpyrifos-Max,Chlorpyrifos,Vegetables,Thrips,176 ml,Engro Fertilizers,Plant Growth Regulator,4237,81%
+Carfentrazone-ethyl-Max,Carfentrazone-ethyl,Fruits,Soil pH Adjustment,40 kg,Engro Fertilizers,Soil Conditioner,2557,84%
+Nitrogen-Plus,Nitrogen,Legumes,Blight,49 kg,Engro Fertilizers,Fertilizer,7894,90%
+Nitrogen-Eco,Nitrogen,Cotton,Soil pH Adjustment,16 kg,Engro Fertilizers,Seed,5847,87%
+Carbendazim-Bio,Carbendazim,Oilseed,Yellow Rust,320 ml,Engro Fertilizers,Fungicide,2560,80%
+Ethrel-Supreme,Ethrel,Wheat,Thrips,28 kg,Engro Fertilizers,Soil Conditioner,4058,91%
+Carfentrazone-ethyl-Pro,Carfentrazone-ethyl,Cotton,Stem Borer,486 ml,Engro Fertilizers,Fungicide,1071,79%
+Imidacloprid-Gold,Imidacloprid,Fruits,Leaf Rust,46 kg,Engro Fertilizers,Fertilizer,2772,92%
+Azoxystrobin-Ultra,Azoxystrobin,Vegetables,Nutrient Deficiency,151 ml,Engro Fertilizers,Herbicide,4924,90%
+Diammonium-Plus,Diammonium Phosphate (DAP),Oilseed,Whitefly,196 ml,Engro Fertilizers,Plant Growth Regulator,1436,75%
+Gibberellic-Gold,Gibberellic Acid,Oilseed,Stem Borer,55 ml,Engro Fertilizers,Plant Growth Regulator,2576,87%
+Azoxystrobin-Plus,Azoxystrobin,Sugarcane,Aphids,161 ml,Engro Fertilizers,Plant Growth Regulator,1870,82%
+Trichoderma-Plus,Trichoderma Harzianum,Rice,Downy Mildew,30 kg,Engro Fertilizers,Soil Conditioner,4664,80%
+Diammonium-Gold,Diammonium Phosphate (DAP),Fruits,Soil Fertility Enhancement,12 kg,Engro Fertilizers,Soil Conditioner,4972,97%
+Potassium-Tech,Potassium,Sugarcane,Growth Regulation,170 ml,Engro Fertilizers,Insecticide,2481,82%
+Zinc-Supreme,Zinc Sulfate,Maize,Soil pH Adjustment,469 ml,Engro Fertilizers,Insecticide,2599,75%
+Chlorpyrifos-Tech,Chlorpyrifos,Wheat,Leaf Rust,33 kg,Engro Fertilizers,Fertilizer,2839,92%
+Glyphosate-Plus,Glyphosate,Oilseed,Blight,134 ml,Engro Fertilizers,Insecticide,4377,99%
+Azoxystrobin-Plus,Azoxystrobin,Cotton,Yellow Rust,16 kg,Engro Fertilizers,Soil Conditioner,3556,86%
+Chlorpyrifos-Tech,Chlorpyrifos,Sugarcane,Bollworms,260 ml,Engro Fertilizers,Insecticide,4963,95%
+Mancozeb-Advance,Mancozeb,Oilseed,Thrips,424 ml,Engro Fertilizers,Fungicide,4290,87%
+Alpha-Cypermethrin-Plus,Alpha-Cypermethrin,Cotton,Soil Fertility Enhancement,260 ml,Engro Fertilizers,Fungicide,3606,83%
+Zinc-Supreme,Zinc Sulfate,Sugarcane,Bollworms,12 kg,Engro Fertilizers,Seed,5193,95%
+Azoxystrobin-Ultra,Azoxystrobin,Rice,Thrips,32 kg,Engro Fertilizers,Soil Conditioner,5262,92%
+Thiamethoxam-Ultra,Thiamethoxam,Vegetables,Aphids,170 ml,Engro Fertilizers,Plant Growth Regulator,2649,79%
+Thiamethoxam-Supreme,Thiamethoxam,Oilseed,Soil pH Adjustment,54 ml,Engro Fertilizers,Plant Growth Regulator,3771,91%
+Diammonium-Gold,Diammonium Phosphate (DAP),Rice,Root Rot,166 ml,Engro Fertilizers,Herbicide,4302,72%
+Gibberellic-Tech,Gibberellic Acid,Sugarcane,Aphids,15 kg,Engro Fertilizers,Seed,4399,87%
+Trichoderma-Bio,Trichoderma Harzianum,Fruits,Downy Mildew,18 kg,Engro Fertilizers,Seed,3896,89%
+Trichoderma-Pro,Trichoderma Harzianum,Maize,Whitefly,157 ml,Engro Fertilizers,Fungicide,1083,85%
+Azoxystrobin-Gold,Azoxystrobin,Oilseed,Whitefly,42 kg,Engro Fertilizers,Fertilizer,3522,80%
+Glyphosate-Gold,Glyphosate,Wheat,Growth Regulation,138 ml,Engro Fertilizers,Plant Growth Regulator,3675,93%
+Tricyclazole-Tech,Tricyclazole,Cotton,Soil Fertility Enhancement,436 ml,Engro Fertilizers,Herbicide,2015,70%
+Phosphorus-Advance,Phosphorus,Rice,Thrips,457 ml,Engro Fertilizers,Herbicide,4184,70%
+Pyrethroid-Supreme,Pyrethroid,Vegetables,Aphids,186 ml,Engro Fertilizers,Plant Growth Regulator,5850,83%
+Tricyclazole-Max,Tricyclazole,Sugarcane,Root Rot,183 ml,Engro Fertilizers,Plant Growth Regulator,4254,90%
+Carfentrazone-ethyl-Supreme,Carfentrazone-ethyl,Maize,Leaf Rust,30 kg,Engro Fertilizers,Fertilizer,6667,90%
+Potassium-Advance,Potassium,Oilseed,Soil pH Adjustment,29 kg,Engro Fertilizers,Fertilizer,4917,85%
+Trichoderma-Ultra,Trichoderma Harzianum,Wheat,Soil Fertility Enhancement,42 kg,Engro Fertilizers,Fertilizer,2788,97%
+Potassium-Supreme,Potassium,Cotton,Yellow Rust,475 ml,Engro Fertilizers,Insecticide,1020,85%
+Potassium-Supreme,Potassium,Sugarcane,Growth Regulation,215 ml,Engro Fertilizers,Herbicide,3533,97%
+Trichoderma-Ultra,Trichoderma Harzianum,Cotton,Stem Borer,13 kg,Engro Fertilizers,Seed,4257,99%
+Gibberellic-Gold,Gibberellic Acid,Fruits,Leaf Rust,73 ml,Engro Fertilizers,Plant Growth Regulator,2304,78%
+Trichoderma-Tech,Trichoderma Harzianum,Sugarcane,Thrips,482 ml,Engro Fertilizers,Herbicide,4283,85%
+Azoxystrobin-Supreme,Azoxystrobin,Sugarcane,Soil pH Adjustment,84 ml,Engro Fertilizers,Plant Growth Regulator,4098,85%
+Chlorpyrifos-Advance,Chlorpyrifos,Oilseed,Leaf Rust,10 kg,Engro Fertilizers,Soil Conditioner,4040,81%
+Nitrogen-Advance,Nitrogen,Sugarcane,Thrips,218 ml,Engro Fertilizers,Fungicide,2960,73%
+Potassium-Gold,Potassium,Sugarcane,Leaf Rust,21 kg,Engro Fertilizers,Fertilizer,4044,81%
+Diammonium-Gold,Diammonium Phosphate (DAP),Sugarcane,Bollworms,180 ml,Engro Fertilizers,Plant Growth Regulator,3957,90%
+Ethrel-Tech,Ethrel,Wheat,Aphids,213 ml,Engro Fertilizers,Insecticide,3549,73%
+Ethrel-Plus,Ethrel,Cotton,Aphids,132 ml,Engro Fertilizers,Herbicide,4141,87%
+Carbendazim-Supreme,Carbendazim,Maize,Blight,27 kg,Engro Fertilizers,Soil Conditioner,4440,85%
+Phosphorus-Max,Phosphorus,Vegetables,Blight,13 kg,Engro Fertilizers,Soil Conditioner,3634,81%
+Mancozeb-Bio,Mancozeb,Legumes,Root Rot,23 kg,Engro Fertilizers,Fertilizer,5026,90%
+Alpha-Cypermethrin-Pro,Alpha-Cypermethrin,Maize,Aphids,201 ml,Engro Fertilizers,Herbicide,4621,96%
+Alpha-Cypermethrin-Plus,Alpha-Cypermethrin,Maize,Bollworms,188 ml,Engro Fertilizers,Plant Growth Regulator,5073,98%
+Azoxystrobin-Advance,Azoxystrobin,Cotton,Nutrient Deficiency,23 kg,Engro Fertilizers,Fertilizer,5123,92%
+Carbendazim-Max,Carbendazim,Wheat,Aphids,444 ml,Engro Fertilizers,Insecticide,1335,85%
+Zinc-Plus,Zinc Sulfate,Oilseed,Downy Mildew,26 kg,Engro Fertilizers,Fertilizer,2440,82%
+Tricyclazole-Gold,Tricyclazole,Vegetables,Planting,20 kg,Engro Fertilizers,Micronutrient,5665,95%
+Imidacloprid-Bio,Imidacloprid,Rice,Planting,31 kg,Engro Fertilizers,Fertilizer,5016,91%
+Thiamethoxam-Plus,Thiamethoxam,Cotton,Aphids,23 kg,Engro Fertilizers,Fertilizer,3018,96%
+Imidacloprid-Ultra,Imidacloprid,Sugarcane,Stem Borer,43 kg,Engro Fertilizers,Fertilizer,3152,95%
+Gibberellic-Tech,Gibberellic Acid,Legumes,Nutrient Deficiency,397 ml,Engro Fertilizers,Insecticide,2471,74%
+Gibberellic-Max,Gibberellic Acid,Oilseed,Planting,177 ml,Engro Fertilizers,Fungicide,1477,90%
+Chlorpyrifos-Supreme,Chlorpyrifos,Sugarcane,Nutrient Deficiency,239 ml,Engro Fertilizers,Insecticide,4870,86%
+Phosphorus-Advance,Phosphorus,Oilseed,Blight,46 kg,Engro Fertilizers,Soil Conditioner,4178,96%
+Imidacloprid-Tech,Imidacloprid,Fruits,Yellow Rust,38 kg,Engro Fertilizers,Fertilizer,7782,88%
+Mancozeb-Advance,Mancozeb,Cotton,Downy Mildew,201 ml,ICI Pakistan,Insecticide,3379,94%
+Glyphosate-Supreme,Glyphosate,Oilseed,Yellow Rust,20 kg,ICI Pakistan,Micronutrient,1259,84%
+Ethrel-Supreme,Ethrel,Fruits,Root Rot,33 kg,ICI Pakistan,Soil Conditioner,3007,82%
+Zinc-Supreme,Zinc Sulfate,Fruits,Whitefly,490 ml,ICI Pakistan,Herbicide,3388,88%
+Nitrogen-Advance,Nitrogen,Legumes,Nutrient Deficiency,15 kg,ICI Pakistan,Seed,6604,90%
+Mancozeb-Tech,Mancozeb,Fruits,Root Rot,238 ml,ICI Pakistan,Herbicide,2929,72%
+Tricyclazole-Ultra,Tricyclazole,Legumes,Bollworms,228 ml,ICI Pakistan,Insecticide,3112,74%
+Potassium-Eco,Potassium,Fruits,Growth Regulation,10 kg,ICI Pakistan,Seed,3326,92%
+Carbendazim-Supreme,Carbendazim,Vegetables,Root Rot,269 ml,ICI Pakistan,Herbicide,2843,84%
+Thiamethoxam-Advance,Thiamethoxam,Sugarcane,Nutrient Deficiency,13 kg,ICI Pakistan,Micronutrient,1749,91%
+Thiamethoxam-Eco,Thiamethoxam,Rice,Blight,305 ml,ICI Pakistan,Insecticide,2750,70%
+Trichoderma-Eco,Trichoderma Harzianum,Rice,Yellow Rust,15 kg,ICI Pakistan,Micronutrient,3615,83%
+Pyrethroid-Eco,Pyrethroid,Sugarcane,Leaf Rust,152 ml,ICI Pakistan,Plant Growth Regulator,4970,74%
+Glyphosate-Bio,Glyphosate,Oilseed,Whitefly,223 ml,ICI Pakistan,Herbicide,2079,95%
+Carfentrazone-ethyl-Eco,Carfentrazone-ethyl,Rice,Bollworms,210 ml,ICI Pakistan,Insecticide,3312,75%
+Nitrogen-Advance,Nitrogen,Maize,Whitefly,14 kg,ICI Pakistan,Micronutrient,1673,87%
+Gibberellic-Max,Gibberellic Acid,Cotton,Whitefly,17 kg,ICI Pakistan,Seed,4806,97%
+Gibberellic-Ultra,Gibberellic Acid,Legumes,Bollworms,32 kg,ICI Pakistan,Soil Conditioner,3029,80%
+Trichoderma-Ultra,Trichoderma Harzianum,Legumes,Soil pH Adjustment,197 ml,ICI Pakistan,Fungicide,1253,84%
+Pyrethroid-Ultra,Pyrethroid,Maize,Leaf Rust,488 ml,ICI Pakistan,Insecticide,4339,98%
+Potassium-Advance,Potassium,Legumes,Downy Mildew,14 kg,ICI Pakistan,Micronutrient,2292,87%
+Thiamethoxam-Supreme,Thiamethoxam,Rice,Root Rot,13 kg,ICI Pakistan,Seed,1703,96%
+Chlorpyrifos-Max,Chlorpyrifos,Wheat,Stem Borer,185 ml,ICI Pakistan,Plant Growth Regulator,3083,91%
+Tricyclazole-Gold,Tricyclazole,Rice,Stem Borer,204 ml,ICI Pakistan,Herbicide,3287,90%
+Mancozeb-Eco,Mancozeb,Legumes,Blight,30 kg,ICI Pakistan,Fertilizer,6705,96%
+Diammonium-Tech,Diammonium Phosphate (DAP),Fruits,Growth Regulation,365 ml,ICI Pakistan,Fungicide,3100,75%
+Potassium-Supreme,Potassium,Oilseed,Downy Mildew,241 ml,ICI Pakistan,Herbicide,1494,82%
+Trichoderma-Pro,Trichoderma Harzianum,Oilseed,Whitefly,5 kg,ICI Pakistan,Micronutrient,5808,97%
+Glyphosate-Tech,Glyphosate,Rice,Planting,95 ml,ICI Pakistan,Plant Growth Regulator,5204,86%
+Trichoderma-Eco,Trichoderma Harzianum,Legumes,Downy Mildew,450 ml,ICI Pakistan,Herbicide,4713,85%
+Thiamethoxam-Ultra,Thiamethoxam,Wheat,Planting,166 ml,ICI Pakistan,Fungicide,3354,97%
+Gibberellic-Max,Gibberellic Acid,Vegetables,Thrips,15 kg,ICI Pakistan,Seed,3318,86%
+Urea-Bio,Urea,Vegetables,Planting,183 ml,ICI Pakistan,Herbicide,2528,90%
+Alpha-Cypermethrin-Bio,Alpha-Cypermethrin,Rice,Nutrient Deficiency,365 ml,ICI Pakistan,Fungicide,1653,72%
+Trichoderma-Plus,Trichoderma Harzianum,Rice,Leaf Rust,19 kg,ICI Pakistan,Micronutrient,3153,87%
+Carfentrazone-ethyl-Bio,Carfentrazone-ethyl,Legumes,Whitefly,24 kg,ICI Pakistan,Soil Conditioner,3430,92%
+Zinc-Gold,Zinc Sulfate,Rice,Growth Regulation,11 kg,ICI Pakistan,Seed,4965,98%
+Phosphorus-Eco,Phosphorus,Wheat,Stem Borer,26 kg,ICI Pakistan,Fertilizer,4890,81%
+Carfentrazone-ethyl-Plus,Carfentrazone-ethyl,Vegetables,Leaf Rust,20 kg,ICI Pakistan,Seed,2981,99%
+Phosphorus-Max,Phosphorus,Oilseed,Planting,19 kg,ICI Pakistan,Soil Conditioner,2130,92%
+Thiamethoxam-Plus,Thiamethoxam,Maize,Thrips,292 ml,ICI Pakistan,Insecticide,3496,90%
+Trichoderma-Bio,Trichoderma Harzianum,Vegetables,Whitefly,35 kg,ICI Pakistan,Fertilizer,4855,88%
+Thiamethoxam-Ultra,Thiamethoxam,Legumes,Aphids,135 ml,ICI Pakistan,Insecticide,1525,75%
+Thiamethoxam-Ultra,Thiamethoxam,Rice,Stem Borer,11 kg,ICI Pakistan,Seed,2259,93%
+Zinc-Supreme,Zinc Sulfate,Legumes,Bollworms,47 kg,ICI Pakistan,Fertilizer,2936,90%
+Diammonium-Supreme,Diammonium Phosphate (DAP),Vegetables,Downy Mildew,418 ml,ICI Pakistan,Fungicide,4742,99%
+Thiamethoxam-Ultra,Thiamethoxam,Oilseed,Blight,16 kg,ICI Pakistan,Micronutrient,2387,87%
+Pyrethroid-Ultra,Pyrethroid,Cotton,Thrips,66 ml,ICI Pakistan,Plant Growth Regulator,3908,87%
+Phosphorus-Pro,Phosphorus,Rice,Bollworms,316 ml,ICI Pakistan,Herbicide,3581,78%
+Gibberellic-Bio,Gibberellic Acid,Legumes,Thrips,173 ml,ICI Pakistan,Insecticide,3866,81%
+Glyphosate-Pro,Glyphosate,Maize,Root Rot,11 kg,ICI Pakistan,Micronutrient,5240,97%
+Alpha-Cypermethrin-Pro,Alpha-Cypermethrin,Legumes,Leaf Rust,383 ml,ICI Pakistan,Herbicide,2279,78%
+Trichoderma-Advance,Trichoderma Harzianum,Legumes,Soil pH Adjustment,461 ml,ICI Pakistan,Herbicide,4772,94%
+Thiamethoxam-Tech,Thiamethoxam,Wheat,Thrips,187 ml,ICI Pakistan,Plant Growth Regulator,1359,87%
+Pyrethroid-Bio,Pyrethroid,Sugarcane,Nutrient Deficiency,43 kg,ICI Pakistan,Soil Conditioner,1788,95%
+Nitrogen-Max,Nitrogen,Vegetables,Stem Borer,16 kg,ICI Pakistan,Micronutrient,3117,86%
+Pyrethroid-Eco,Pyrethroid,Rice,Planting,161 ml,ICI Pakistan,Plant Growth Regulator,5856,73%
+Carfentrazone-ethyl-Eco,Carfentrazone-ethyl,Sugarcane,Thrips,379 ml,ICI Pakistan,Insecticide,1831,94%
+Ethrel-Supreme,Ethrel,Maize,Planting,19 kg,ICI Pakistan,Seed,2394,87%
+Trichoderma-Plus,Trichoderma Harzianum,Rice,Blight,419 ml,ICI Pakistan,Herbicide,4196,96%
+Imidacloprid-Ultra,Imidacloprid,Vegetables,Nutrient Deficiency,188 ml,ICI Pakistan,Plant Growth Regulator,2691,71%
+Diammonium-Eco,Diammonium Phosphate (DAP),Fruits,Stem Borer,466 ml,ICI Pakistan,Insecticide,4452,99%
+Potassium-Advance,Potassium,Oilseed,Thrips,449 ml,ICI Pakistan,Insecticide,2830,92%
+Nitrogen-Max,Nitrogen,Vegetables,Nutrient Deficiency,8 kg,ICI Pakistan,Micronutrient,1979,84%
+Mancozeb-Eco,Mancozeb,Cotton,Growth Regulation,240 ml,ICI Pakistan,Fungicide,3044,89%
+Pyrethroid-Plus,Pyrethroid,Cotton,Thrips,319 ml,ICI Pakistan,Insecticide,3782,75%
+Carbendazim-Max,Carbendazim,Vegetables,Nutrient Deficiency,347 ml,ICI Pakistan,Herbicide,2644,82%
+Urea-Bio,Urea,Sugarcane,Soil pH Adjustment,156 ml,ICI Pakistan,Herbicide,3703,72%
+Pyrethroid-Pro,Pyrethroid,Legumes,Thrips,166 ml,ICI Pakistan,Plant Growth Regulator,3244,81%
+Imidacloprid-Supreme,Imidacloprid,Wheat,Root Rot,456 ml,ICI Pakistan,Fungicide,2993,95%
+Pyrethroid-Max,Pyrethroid,Sugarcane,Soil pH Adjustment,20 kg,ICI Pakistan,Seed,3380,89%
+Trichoderma-Ultra,Trichoderma Harzianum,Sugarcane,Yellow Rust,167 ml,ICI Pakistan,Plant Growth Regulator,4758,91%
+Mancozeb-Ultra,Mancozeb,Oilseed,Soil Fertility Enhancement,149 ml,ICI Pakistan,Herbicide,2741,79%
+Pyrethroid-Plus,Pyrethroid,Fruits,Soil pH Adjustment,12 kg,ICI Pakistan,Seed,2526,91%
+Potassium-Tech,Potassium,Maize,Whitefly,38 kg,ICI Pakistan,Fertilizer,3753,95%
+Pyrethroid-Eco,Pyrethroid,Maize,Growth Regulation,235 ml,ICI Pakistan,Fungicide,2501,74%
+Nitrogen-Supreme,Nitrogen,Legumes,Growth Regulation,11 kg,ICI Pakistan,Micronutrient,4272,87%
+Zinc-Tech,Zinc Sulfate,Sugarcane,Soil pH Adjustment,20 kg,ICI Pakistan,Fertilizer,6433,96%
+Potassium-Advance,Potassium,Sugarcane,Whitefly,495 ml,ICI Pakistan,Fungicide,3039,70%
+Carfentrazone-ethyl-Bio,Carfentrazone-ethyl,Fruits,Root Rot,5 kg,ICI Pakistan,Micronutrient,5509,89%
+Potassium-Pro,Potassium,Maize,Aphids,170 ml,ICI Pakistan,Plant Growth Regulator,4484,80%
+Imidacloprid-Tech,Imidacloprid,Fruits,Whitefly,26 kg,ICI Pakistan,Soil Conditioner,2905,84%
+Alpha-Cypermethrin-Max,Alpha-Cypermethrin,Cotton,Soil pH Adjustment,6 kg,ICI Pakistan,Micronutrient,5722,87%
+Azoxystrobin-Advance,Azoxystrobin,Maize,Leaf Rust,107 ml,ICI Pakistan,Insecticide,3240,97%
+Phosphorus-Supreme,Phosphorus,Sugarcane,Thrips,333 ml,ICI Pakistan,Herbicide,3117,82%
+Chlorpyrifos-Max,Chlorpyrifos,Oilseed,Downy Mildew,436 ml,ICI Pakistan,Herbicide,3191,98%
+Ethrel-Bio,Ethrel,Oilseed,Yellow Rust,15 kg,ICI Pakistan,Micronutrient,4219,75%
+Diammonium-Max,Diammonium Phosphate (DAP),Wheat,Nutrient Deficiency,23 kg,ICI Pakistan,Fertilizer,5142,95%
+Azoxystrobin-Supreme,Azoxystrobin,Fruits,Soil pH Adjustment,10 kg,ICI Pakistan,Micronutrient,3994,98%
+Gibberellic-Max,Gibberellic Acid,Wheat,Stem Borer,287 ml,ICI Pakistan,Fungicide,4622,81%
+Urea-Max,Urea,Cotton,Bollworms,296 ml,ICI Pakistan,Herbicide,4706,99%
+Potassium-Eco,Potassium,Oilseed,Bollworms,243 ml,ICI Pakistan,Herbicide,4301,73%
+Potassium-Tech,Potassium,Sugarcane,Soil pH Adjustment,176 ml,ICI Pakistan,Plant Growth Regulator,5589,75%
+Glyphosate-Ultra,Glyphosate,Sugarcane,Whitefly,85 ml,ICI Pakistan,Plant Growth Regulator,5289,73%
+Imidacloprid-Bio,Imidacloprid,Wheat,Root Rot,18 kg,ICI Pakistan,Micronutrient,5454,85%
+Carfentrazone-ethyl-Tech,Carfentrazone-ethyl,Wheat,Whitefly,7 kg,ICI Pakistan,Micronutrient,2276,78%
+Zinc-Max,Zinc Sulfate,Sugarcane,Root Rot,35 kg,ICI Pakistan,Fertilizer,7434,97%
+Zinc-Ultra,Zinc Sulfate,Vegetables,Soil Fertility Enhancement,424 ml,ICI Pakistan,Herbicide,1337,87%
+Trichoderma-Supreme,Trichoderma Harzianum,Maize,Stem Borer,100 ml,ICI Pakistan,Herbicide,3857,80%
+Potassium-Bio,Potassium,Oilseed,Soil pH Adjustment,454 ml,ICI Pakistan,Insecticide,1220,90%

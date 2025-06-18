@@ -1,0 +1,50 @@
+{
+  "general_agri_terms": [
+
+    "fertilizer", "pesticide", "insecticide", "herbicide", "fungicide", "weedicide",
+    "organic", "biofertilizer", "chemical", "spray", "dose", "application", "treatment",
+    "manure", "compost", "mulch", "lime", "urea", "dap", "npk", "potash",
+    
+    "crop", "crops", "harvest", "yield", "germination", "germinate", "growth", "planting",
+    "sowing", "reaping", "transplanting", "nursery", "weeding", "crop rotation", "intercropping",
+    "cover crop", "cash crop", "subsistence", "season", "short duration crop", "off-season",
+    
+    "climate", "weather", "drought", "flood", "rain", "monsoon", "sunlight", "temperature",
+    "humidity", "evaporation", "irrigation", "drip", "sprinkler", "furrow", "canal",
+    "tube well", "pump", "water logging", "water stress",
+    
+    "soil", "land", "tillage", "plough", "plow", "no-till", "soil pH", "fertility",
+    "salinity", "organic matter", "topsoil", "erosion", "bed preparation", "soil testing",
+    
+    "pest", "fungus", "bacteria", "virus", "mite", "aphid", "borer", "cutworm", "stem borer",
+    "bollworm", "whitefly", "thrips", "armyworm", "root rot", "leaf curl", "blight", "rust",
+    "yellow rust", "downy mildew", "powdery mildew", "wilt", "nematode", "sucking pest",
+    
+    "tractor", "thresher", "sprayer", "cutter", "hoe", "harrow", "plough", "seeder", "harvester",
+    "irrigation pipe", "drum seeder", "chisel plow", "rotavator", "trolley", "cultivator",
+    
+    "dose", "liter", "ml", "kg", "acre", "hectare", "soil test", "leaf test", "tissue test",
+    "sample", "field", "plot", "result", "efficacy", "productivity", "output",
+    
+    "bio control", "growth regulator", "stimulant", "natural extract", "resistance", "hybrid",
+    "GMO", "certified seed", "pure line", "foliar spray", "broadcasting", "line sowing",
+    "spacing", "gap filling", "puddling", "levelling", "bunding", "organic farming",
+    "vermicompost", "green manure", "cropping pattern", "post-harvest", "storage", "transport",
+    
+    
+    "khaad", "zahr", "dawai", "organic dawa", "pani dena", "narsari", "beej", "fasal",
+    "halaat", "mausam", "garmi", "sardee", "barish", "sooraj", "zarkhaiz", "zamin", "keera",
+    "bimari", "fugal", "bacteria", "kachra", "gudam", "fawara", "machine", "hal", "kasshna",
+    "bardasht", "ilaj", "asal dawain", "sadgi", "kudarti", "jari bootiyan", "booti",
+    "boht zyada", "wazan", "kirdaar", "rakba", "safai", "hasil", "bara darman", "sehatmand",
+    "tezi se barhna", "bud", "pattay", "jad", "tana", "khushk", "geela", "chikni mitti",
+    "balu mitti", "thali zameen", "nami", "machhli ki khad", "jeevanu", "rog", "sunny",
+    "kharab", "thik hai", "spray krain", "mushkil", "asani", "kamyabi", "waqt par", "gandum",
+    "makai", "kapas", "chawal", "bhaari zameen", "halka pani", "taiz hawa", "kam yield",
+    "zyaada nuksan", "zinda pauday", "bimar pauday", "pest ka attack", "disease failna",
+    "spray ka time", "kamyab hasil", "mohabbat se kaam", "mehnat", "asr dikhana", "sasta ilaj",
+    "mehnga ilaj", "test krwain", "result dekhen", "company ki dawa", "market mein milti hai",
+    "nimak", "khaari zameen", "double spray", "kuttay", "nasht krna", "narmi", "garam", "thanda",
+    "taja", "behtar", "acha", "ganda", "zahrila", "sust", "tez", "motor", "bore", "nalko", "canal"
+  ]
+}

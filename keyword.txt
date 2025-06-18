@@ -1,0 +1,30 @@
+{
+  "general_agri_terms": [
+    "fertilizer", "pesticide", "insecticide", "herbicide", "fungicide",
+    "organic", "spray", "dose", "yield", "harvest", "crop", "growth",
+    "germination", "planting", "sowing", "season", "weather", "climate",
+    "rain", "sunlight", "nursery", "water", "irrigation", "drip",
+    "sprinkler", "sprayer", "seed", "soil", "land", "cultivation",
+    "tractor", "thresher", "disease", "pest", "fungus", "bacteria",
+    "weed", "thrips", "borer", "aphid", "bollworm", "mite",
+    "deficiency", "symptoms", "treatment", "organic farming", "natural",
+    "growth regulator", "stimulant", "biofertilizer", "compost",
+    "manure", "mulch", "weedicide", "resistance", "till", "plough",
+    "inoculant", "boost", "efficacy", "crop rotation", "soil test",
+    "leaf test", "root", "stem", "leaf", "sprout", "bud",
+    
+    "khaad", "zahr", "dawai", "organic dawa", "pani dena", "narsari",
+    "beej", "fasal", "halaat", "mausam", "garmi", "sardee", "barish",
+    "sooraj", "zarkhaiz", "zamin", "keera", "fugal", "bimari", "gudam",
+    "kachra", "fawara", "machine", "tractor", "thresher", "hal",
+    "kasshna", "bardasht", "ilaj", "asal dawain", "sadgi", "kudarti",
+    "jari bootiyan", "wazan", "kirdaar", "rakba", "safai", "hasil"
+  ]
+}
+
+
+
+with open("agri_keywords.json", "r") as f:
+    keyword_data = json.load(f)
+
+AGRI_KEYWORDS = set(word.lower() for word in keyword_data["general_agri_terms"])
