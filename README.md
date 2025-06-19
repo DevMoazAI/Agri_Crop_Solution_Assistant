@@ -1,3 +1,21 @@
+## 📸 Application Screenshots
+
+### 🔹 English Query
+![Homepage](App_Images/Screenshot (7).png)
+
+### 🔹 English Description
+![Dashboard](App_Images/Screenshot (8).png)
+
+### 🔹 Medicien from Database
+![Form](App_Images/Screenshot (9).png)
+
+### 🔹 URDU Query and Description
+![Mobile View](App_Images/Screenshot (11).png)
+
+### 🔹 Medicien from Database
+![Mobile View](App_Images/Screenshot (12).png)
+
+
 # 🌾 Agri Crop Solution Assistant
 
 An AI-powered Roman Urdu & English chatbot that helps farmers identify crop diseases and provides accurate, contextual guidance based on user queries — even with spelling mistakes!
@@ -20,23 +38,6 @@ An AI-powered Roman Urdu & English chatbot that helps farmers identify crop dise
 - LangChain / LLM API (configurable)
 - JSON-based Keyword Matching
 - Streamlit / FastAPI (for deployment)
-
----
-
-## 📁 Folder Structure
-
-plant_bot_app/
-│
-├── data/
-│ ├── agri_keywords.json
-│ └── crop_and_diseases.json
-│
-├── agri_keywords.py # Core agri keyword matcher
-├── utils.py # Utilities for language detection, matching
-├── main.py # LLM interface logic
-├── app.py # (Optional) Streamlit or Flask entry point
-└── README.md
-
 
 ---
 
