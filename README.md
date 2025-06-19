@@ -1,26 +1,20 @@
 
 ## 📸 Application Screenshots
 
-### 🔹 English Query  
-![Homepage](App_Images/screenshot_7.png)
-
-### 🔹 English Description  
-![Dashboard](App_Images/screenshot_8.png)
-
-### 🔹 Medicien from Database  
-![Form](App_Images/screenshot_9.png)
-
-### 🔹 URDU Query and Description  
-![Mobile View](App_Images/screenshot_11.png)
-
-### 🔹 Medicien from Database  
-![Mobile View](App_Images/screenshot_12.png)
-
+### 🔹 English Query
 ![Homepage](https://raw.githubusercontent.com/DevMoazAI/Agri_Crop_Solution_Assistant/main/App_Images/Screenshot%20(7).png)
+
+### 🔹 English Description 
 ![Dashboard](https://raw.githubusercontent.com/DevMoazAI/Agri_Crop_Solution_Assistant/main/App_Images/Screenshot%20(8).png)
+
+### 🔹 Medicien from Database
 ![Form](https://raw.githubusercontent.com/DevMoazAI/Agri_Crop_Solution_Assistant/main/App_Images/Screenshot%20(9).png)
-![Mobile View](https://raw.githubusercontent.com/DevMoazAI/Agri_Crop_Solution_Assistant/main/App_Images/Screenshot%20(11).png)
-![Mobile View 2](https://raw.githubusercontent.com/DevMoazAI/Agri_Crop_Solution_Assistant/main/App_Images/Screenshot%20(12).png)
+
+### 🔹 URDU Query and Description
+![View](https://raw.githubusercontent.com/DevMoazAI/Agri_Crop_Solution_Assistant/main/App_Images/Screenshot%20(11).png)
+
+### 🔹 Medicien from Database 
+![View 2](https://raw.githubusercontent.com/DevMoazAI/Agri_Crop_Solution_Assistant/main/App_Images/Screenshot%20(12).png)
 
 
 # 🌾 Agri Crop Solution Assistant
