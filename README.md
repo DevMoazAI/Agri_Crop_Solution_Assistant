@@ -1,4 +1,3 @@
-
 # 🌾 Agri Crop Solution Assistant
 
 An AI-powered Roman Urdu & English chatbot that helps farmers identify crop diseases and provides accurate, contextual guidance based on user queries — even with spelling mistakes!
