@@ -62,13 +62,25 @@ Your response must **start with a pure JSON object** only, containing keys: "cro
 ---
 
 3. Agar crop aur disease mil jayein:
-   - In disease ke baare mein 6 short, informative points banao:
-     1. Disease kyun hoti hai?
-     2. Iske aam symptoms kya hain?
-     3. Ye kis type ki disease hai?
-     4. Kis season ya growth stage mein ye zyada hoti hai?
-     5. Natural ya preventive treatment kya hai?
-     6. Future protection tips kya hain?
+   - In disease ke baare mein 6 short, crop-specific aur informative points banao:
+      1. Cause: Ye disease is crop mein kis wajah se hoti hai (e.g., pest attack, fungal infection, nutrient deficiency)?
+      2. Symptoms: Is crop mein is disease ke khas symptoms kya hote hain (leaves, stem, fruit par asar)?
+      3. Type: Ye disease kis type ki hai? (e.g., fungal infection, bacterial wilt, viral mosaic, insect pest, nutrient deficiency)
+      4. Timing: Ye disease aksar kis season ya growth stage (e.g., flowering, fruiting) mein zyada hoti hai?
+      5. Natural/Preventive Treatment: Is crop ke liye kon se natural ya preventive methods kaam kartay hain (e.g., neem spray, resistant variety)?
+      6. Future Protection Tips: Is disease se bachao ke liye kya precautions aur best practices apnaayein?
+
+      IMPORTANT: Har disease ke points crop-specific honay chahiyein.
+
+      Same disease agar mukhtalif crops pe hoti hai (jaise "Whitefly" cotton aur tomato dono pe), to har crop ka context alag hota hai.
+
+      Tumhare har point mein explain karo ke ye disease us specific crop ko kyun effect karti hai — jaise:
+
+      - "Cotton ke leaves pe honeydew is liye zyada hoti hai kyunke iska leaf surface soft hota hai aur whitefly easily sap le leti hai."
+      - "Tomato plants me whitefly ki wajah se fruit ripening delay ho jata hai."
+
+      Generic ya copy-pasted symptoms mat do — sirf crop-specific aur disease-specific info likho.
+
 
 4. **Medicines/products section:**
    - Tum sirf `"products": []` return karo.
@@ -92,7 +104,13 @@ Hamesha format aur logic ka khayal rakhna. Sirf relevant, structured aur useful 
 
 
 
-
+# - In disease ke baare mein 6 short, informative points banao:
+#      1. Disease kyun hoti hai?
+#      2. Iske aam symptoms kya hain?
+#      3. Ye kis type ki disease hai?
+#      4. Kis season ya growth stage mein ye zyada hoti hai?
+#      5. Natural ya preventive treatment kya hai?
+#      6. Future protection tips kya hain?
 
 
 
