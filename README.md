@@ -1,3 +1,4 @@
+![Screenshot (7)](https://github.com/user-attachments/assets/b1044a35-ecef-4631-8dd7-519f735c4c14)
 # 🌾 Agri Crop Solution Assistant
 
 An AI-powered Roman Urdu & English chatbot that helps farmers identify crop diseases and provides accurate, contextual guidance based on user queries — even with spelling mistakes!
@@ -64,9 +65,6 @@ Leaves of wheat are turning yellow	English
 kapas ka pest ataak hai	Roman Urdu
 
 🧪 To Run
-bash
-Copy
-Edit
 git clone https://github.com/DevMoazAI/Agri_Crop_Solution_Assistant.git
 cd Agri_Crop_Solution_Assistant
 python -m venv venv
@@ -79,10 +77,6 @@ Supervised by Solutyics AI Team
 
 📄 License
 MIT License – free to use, modify, and distribute.
-
-yaml
-Copy
-Edit
 
 ---
 
