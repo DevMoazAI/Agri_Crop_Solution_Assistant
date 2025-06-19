@@ -1,19 +1,19 @@
 ## 📸 Application Screenshots
 
-### 🔹 English Query
-![Homepage](App_Images/Screenshot (7).png)
+🔹 English Query  
+![Homepage](App_Images/screenshot_7.png)
 
-### 🔹 English Description
-![Dashboard](App_Images/Screenshot (8).png)
+🔹 English Description  
+![Dashboard](App_Images/screenshot_8.png)
 
-### 🔹 Medicien from Database
-![Form](App_Images/Screenshot (9).png)
+🔹 Medicien from Database  
+![Form](App_Images/screenshot_9.png)
 
-### 🔹 URDU Query and Description
-![Mobile View](App_Images/Screenshot (11).png)
+🔹 URDU Query and Description  
+![Mobile View](App_Images/screenshot_11.png)
 
-### 🔹 Medicien from Database
-![Mobile View](App_Images/Screenshot (12).png)
+🔹 Medicien from Database  
+![Mobile View](App_Images/screenshot_12.png)
 
 
 # 🌾 Agri Crop Solution Assistant
