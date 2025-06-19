@@ -11,7 +11,7 @@ import pandas as pd
 st.set_page_config(page_title="Agri Crop Advisor")
 st.title(" Agri Crop Solution Assistant")
 
-user_input = st.text_input("Ask about a crop issue (English, Urdu, Roman Urdu):")
+user_input = st.text_input("Ask about a crop issue (English,Roman Urdu):")
 
 if user_input:
     if not is_agri_related(user_input):
@@ -68,7 +68,7 @@ if user_input:
             #     st.warning("No medicines found for this crop-disease combination.")
 
             if products:
-                st.markdown("### Matched Medicines from Database")
+                st.markdown("### Medicines")
 
                 df = pd.DataFrame(products)
                 df = df[
