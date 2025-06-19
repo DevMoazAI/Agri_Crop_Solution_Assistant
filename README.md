@@ -1,4 +1,4 @@
-![Screenshot (7)](https://github.com/user-attachments/assets/b1044a35-ecef-4631-8dd7-519f735c4c14)
+
 # 🌾 Agri Crop Solution Assistant
 
 An AI-powered Roman Urdu & English chatbot that helps farmers identify crop diseases and provides accurate, contextual guidance based on user queries — even with spelling mistakes!
