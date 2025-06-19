@@ -1,18 +1,19 @@
+
 ## 📸 Application Screenshots
 
-🔹 English Query  
+### 🔹 English Query  
 ![Homepage](App_Images/screenshot_7.png)
 
-🔹 English Description  
+### 🔹 English Description  
 ![Dashboard](App_Images/screenshot_8.png)
 
-🔹 Medicien from Database  
+### 🔹 Medicien from Database  
 ![Form](App_Images/screenshot_9.png)
 
-🔹 URDU Query and Description  
+### 🔹 URDU Query and Description  
 ![Mobile View](App_Images/screenshot_11.png)
 
-🔹 Medicien from Database  
+### 🔹 Medicien from Database  
 ![Mobile View](App_Images/screenshot_12.png)
 
 
