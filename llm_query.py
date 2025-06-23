@@ -1,6 +1,5 @@
 import os
 import json
-import re
 import requests
 from db.db_query import query_agri_data
 from prompt import SYSTEM_PROMPT
@@ -9,6 +8,9 @@ from prompt import SYSTEM_PROMPT
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 GROQ_API_ENDPOINT = os.getenv("GROQ_API_ENDPOINT")
 MODEL_NAME = os.getenv("MODEL_NAME")
+
+# Memory for context
+recent_context = {"crop": None, "disease": None}
 
 def safe_extract_json(text):
     """
@@ -56,12 +58,10 @@ def get_response_from_llm(user_query):
         result = response.json()
 
         content = result["choices"][0]["message"]["content"].strip()
-
         print("Raw LLM Content:\n", content)
 
         llm_json, error = safe_extract_json(content)
         if error:
-            print("JSON parsing error:", error)
             return {
                 "type": "error",
                 "error": f"Invalid JSON in LLM response: {error}",
@@ -69,9 +69,15 @@ def get_response_from_llm(user_query):
             }
 
         llm_json.setdefault("points", [])
-        llm_json.setdefault("products", [])
+        crop = llm_json.get("crop", "fallback")
+        disease = llm_json.get("disease", "fallback")
 
-        # Also get explanation part (if any)
+        # Update context if available
+        if crop != "fallback":
+            recent_context["crop"] = crop
+        if disease != "fallback":
+            recent_context["disease"] = disease
+
         json_part = json.dumps(llm_json)
         explanation_part = content.replace(json_part, '').strip()
 
@@ -81,18 +87,22 @@ def get_response_from_llm(user_query):
                 "message": "Main sirf zaraat se mutaliq sawalat ke jawab deta hoon."
             }
 
-        # Extract crop & disease
-        crop = llm_json.get("crop", "fallback")
-        disease = llm_json.get("disease", "fallback")
+        # Fallback logic using memory
+        if crop == "fallback" and recent_context["crop"]:
+            crop = recent_context["crop"]
+        if disease == "fallback" and recent_context["disease"]:
+            disease = recent_context["disease"]
 
+        # Final fallback: still missing crop or disease
         if crop == "fallback" or disease == "fallback":
             return {
                 "type": "agri-fallback",
-                "message": explanation_part
+                "message": explanation_part,
+                "points": llm_json.get("points", [])
             }
-        # Query database for matching medicine info
+
+        # Full match: crop + disease
         db_results = query_agri_data(crop, disease)
-        print(" DB Query Result:\n", db_results)
         return {
             "type": "agri-match",
             "crop": crop,
@@ -103,7 +113,6 @@ def get_response_from_llm(user_query):
         }
 
     except requests.exceptions.RequestException as e:
-        print("API request failed:", e)
         return {
             "type": "error",
             "error": "API call failed",
