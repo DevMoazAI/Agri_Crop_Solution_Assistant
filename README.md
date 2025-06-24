@@ -16,6 +16,8 @@
 ### 🔹 Medicien from Database 
 ![View 2](https://raw.githubusercontent.com/DevMoazAI/Agri_Crop_Solution_Assistant/main/App_Images/Screenshot%20(12).png)
 
+### 🔹 Medicien from Database 
+![View 2](https://raw.githubusercontent.com/DevMoazAI/Agri_Crop_Solution_Assistant/main/App_Images/Screenshot%20(14).png)
 
 # 🌾 Agri Crop Solution Assistant
 
