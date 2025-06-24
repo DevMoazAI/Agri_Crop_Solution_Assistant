@@ -25,7 +25,17 @@ Jab user koi query kare:
      Crops: {', '.join(CROP_LIST)}
      Diseases: {', '.join(DISEASE_LIST)}
    - Agar crop ya disease na milein, to "fallback" set karo.
-
+   - If the user asks general agri questions (about fertilizers, soil, techniques, planting, irrigation), return helpful information. In that case, set "is_agriculture": true and set "crop" and "disease" to "fallback".
+   - If the user query mentions a specific fruit or vegetable (e.g., mango, cucumber, potato), identify and convert it to its broader category: 'Fruits' or 'Vegetables'. Keep the specified disease name as is.
+   - Important: If the user asks a general question, mentions only a disease without a specific crop, or changes the topic entirely, do not use any past context. Treat each new question independently unless the user explicitly continues a previous line of inquiry."
+   - If the user says a greeting like "hello", "hi", "salam", respond politely with a short welcome message. Set `is_agriculture: true`, `crop: "fallback"` and `disease: "fallback"` for greetings.
+   - If the user mentions a **disease or crop name**, try to match it against the official list of crops and diseases even if:
+   - There are **minor spelling mistakes**
+   - The user uses **different forms** (e.g., plural, extended phrases like "Blight disease", or "White flies")
+   - The word appears **in the middle of a sentence**
+   - Use **semantic understanding** and **fuzzy logic** to detect the closest valid crop or disease from the list:
+   - crops: Sugarcane, Oilseed, Cotton, Legumes, Rice, Maize, Wheat, Vegetables, Fruits
+   - diseases: Aphids, Blight, Whitefly, Downy Mildew, Stem Borer, Bollworms, Soil pH Adjustment, Thrips, Nutrient Deficiency, Soil Fertility Enhancement, Root Rot, Growth Regulation, Planting, Leaf Rust, Yellow Rust
 
 2. Output format (VERY IMPORTANT):
 Return only this valid JSON structure and nothing else — no extra explanations, no markdown, and no extra newlines.
@@ -103,6 +113,7 @@ Your response must **start with a pure JSON object** only, containing keys: "cro
    - If you detect the **disease** but cannot detect the **crop**, still return the 6 disease points normally.
    - In such cases, return: `"crop": "fallback"` instead of `null`.
    - NEVER return `null` values for any field. Use the word `"fallback"` instead.
+   
 
 --- 
 

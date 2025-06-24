@@ -86,12 +86,26 @@ def get_response_from_llm(user_query):
                 "type": "non-agri",
                 "message": "Main sirf zaraat se mutaliq sawalat ke jawab deta hoon."
             }
+        
+        # 👉 New block: If it's agri-related but no crop or disease is found
+        if llm_json.get("is_agriculture", False) and crop == "fallback" and disease == "fallback" and not llm_json.get("points") == []:
+            return {
+                "type": "agri-general",
+                "message": explanation_part,
+                "points": llm_json.get("points", [])
+            }
 
         # Fallback logic using memory
-        if crop == "fallback" and recent_context["crop"]:
-            crop = recent_context["crop"]
-        if disease == "fallback" and recent_context["disease"]:
-            disease = recent_context["disease"]
+        # if crop == "fallback" and recent_context["crop"]:
+        #     crop = recent_context["crop"]
+        # if disease == "fallback" and recent_context["disease"]:
+        #     disease = recent_context["disease"]
+        # Use previous context only if BOTH crop and disease are missing
+        if crop == "fallback" and disease == "fallback":
+            if recent_context["crop"]:
+                crop = recent_context["crop"]
+            if recent_context["disease"]:
+                disease = recent_context["disease"]
 
         # Final fallback: still missing crop or disease
         if crop == "fallback" or disease == "fallback":

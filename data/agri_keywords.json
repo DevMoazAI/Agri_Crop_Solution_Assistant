@@ -46,5 +46,10 @@
     "mehnga ilaj", "test krwain", "result dekhen", "company ki dawa", "market mein milti hai",
     "nimak", "khaari zameen", "double spray", "kuttay", "nasht krna", "narmi", "garam", "thanda",
     "taja", "behtar", "acha", "ganda", "zahrila", "sust", "tez", "motor", "bore", "nalko", "canal"
+  ],
+  "greetings": [
+    "hello", "hi", "salam", "assalamualaikum", "aslam o alaikum",
+    "kia hal", "kese ho", "how are you", "hello there", "good morning",
+    "good evening", "aoa"
   ]
 }
