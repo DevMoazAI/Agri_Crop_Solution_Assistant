@@ -18,8 +18,8 @@ An AI-powered chatbot designed to assist farmers in **identifying crop diseases*
 ### 🔹 Urdu Query and Description
 ![Urdu Query and Description](https://raw.githubusercontent.com/DevMoazAI/Agri_Crop_Solution_Assistant/main/App_Images/Screenshot%20(11).png)
 
-### 🔹 Medicine from Database (Urdu) - Example 1
-![Medicine from Database (Urdu) - Example 1](https://raw.githubusercontent.com/DevMoazAI/Agri_Crop_Solution_Assistant/main/App_Images/Screenshot%20(12).png)
+<!-- ### 🔹 Medicine from Database (Urdu) - Example 1
+![Medicine from Database (Urdu) - Example 1](https://raw.githubusercontent.com/DevMoazAI/Agri_Crop_Solution_Assistant/main/App_Images/Screenshot%20(12).png) -->
 
 ### 🔹 Medicine from Database (Urdu) - Example 2
 ![Medicine from Database (Urdu) - Example 2](https://raw.githubusercontent.com/DevMoazAI/Agri_Crop_Solution_Assistant/main/App_Images/Screenshot%20(14).png)
